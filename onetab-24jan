@@ -1,0 +1,1047 @@
+https://imagelayers.io/ | ImageLayers | A Docker Image Visualizer
+
+https://hub.docker.com/r/jare/go-tools/~/dockerfile/ | jare/go-tools - Docker Hub
+https://github.com/JAremko/alpine-vim | GitHub - JAremko/alpine-vim: "dockerized" Vim
+https://hub.docker.com/_/python/ | library/python - Docker Hub
+https://github.com/tianon/docker-brew-ubuntu-core/blob/9c78896fe39d5be95cc4a6ae6c0475599a1bc396/precise/Dockerfile | docker-brew-ubuntu-core/Dockerfile at 9c78896fe39d5be95cc4a6ae6c0475599a1bc396 · tianon/docker-brew-ubuntu-core · GitHub
+https://nickjanetakis.com/blog/alpine-based-docker-images-make-a-difference-in-real-world-apps | Alpine Based Docker Images Make a Difference in Real World Apps — Nick Janetakis
+http://docs.python-guide.org/en/latest/dev/virtualenvs/ | Virtual Environments — The Hitchhiker's Guide to Python
+http://chaijs.com/api/ | chaijs.com/api/
+https://github.com/domenic/chai-as-promised | GitHub - domenic/chai-as-promised: Extends Chai with assertions about promises.
+http://engineroom.ft.com/category/theme/testing/ | Testing
+https://www.jetbrains.com/go/#early-build | JetBrains Gogland: Up and Coming Go IDE
+https://developer.android.com/topic/instant-apps/prepare.html | Preparing Your App | Android Developers
+https://github.com/go-lang-plugin-org/go-lang-idea-plugin | GitHub - go-lang-plugin-org/go-lang-idea-plugin: Google Go language IDE built using the IntelliJ Platform
+https://blog.framer.com/a-story-of-a-designer-conquering-mathematics-d0fd4585f0ba#.2foembpk1 | The story of a designer conquering mathematics.
+
+https://github.com/dotnet/dotnet-docker-samples/blob/master/dotnetapp-dev/Dockerfile | dotnet-docker-samples/Dockerfile at master · dotnet/dotnet-docker-samples · GitHub
+http://www.joshka.net/2016/08/installing-dotnet-osx | Installing .NET Core on OSX
+
+
+https://hackercodex.com/guide/python-development-environment-on-mac-osx/ | Hacker Codex
+https://github.com/jmenga/todobackend/blob/011bb008201ab6ba2d5fd4d575f9de20c0a5ebec/Jenkinsfile | todobackend/Jenkinsfile at 011bb008201ab6ba2d5fd4d575f9de20c0a5ebec · jmenga/todobackend · GitHub
+https://github.com/jmenga/todobackend/blob/011bb008201ab6ba2d5fd4d575f9de20c0a5ebec/docker/release/docker-compose-v2.yml | todobackend/docker-compose-v2.yml at 011bb008201ab6ba2d5fd4d575f9de20c0a5ebec · jmenga/todobackend · GitHub
+https://precursorapp.com/blog/precursor-is-now-open-source | Precursor is now open source. | Precursor
+https://developer.apple.com/macos/touch-bar/ | Touch Bar on the new MacBook Pro - Apple Developer
+https://gankkank.github.io/articles/2015/05/07/docker-workflow-jenkins/ | Docker workflow, Part 2: Jenkins
+https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes | Automated Image Builds with Jenkins, Packer, and Kubernetes  |  Solutions  |  Google Cloud Platform
+https://www.npmjs.com/package/wraith | wraith
+https://github.com/creationix/nvm | GitHub - creationix/nvm: Node Version Manager - Simple bash script to manage multiple active node.js versions
+https://github.com/tlevine/urchin | GitHub - tlevine/urchin: Shell tests
+https://trello.com/b/Gpeo6Zk0/pluralsight | Pluralsight | Trello
+https://www.youtube.com/watch?v=FzuDUnoNQo0 | Use Xcode to Program C++ - YouTube
+https://code.visualstudio.com/docs/languages/cpp | C++ programming with Visual Studio Code
+https://portainer.readthedocs.io/en/latest/deployment.html#quick-start | Deployment — Portainer 1.9.3 documentation
+http://localhost:9000/#/containers/af411d32e8a74468f7b45df6abca5a747825f8fb2be4700cb6b9e382007b584e/console | Portainer
+http://localhost:9000/#/containers/af411d32e8a74468f7b45df6abca5a747825f8fb2be4700cb6b9e382007b584e/logs | Portainer
+https://voidtech.wordpress.com/2016/06/30/get-your-list-of-plugins-and-version-installed-in-a-plugins-txt-format-for-docker/ | Get your list of plugins and version installed in a plugins.txt format (for docker) – Void Technology
+https://github.com/IFSight/d4m-nfs | GitHub - IFSight/d4m-nfs: Docker for Mac with NFS for performance improvements over osxfs
+
+http://blog.hypriot.com/post/setting-up-100-nodes-jenkins-cluster-with-docker-swarm-in-less-than-10-minutes/ | Setting up 100 nodes Jenkins cluster with Docker Swarm in less than 10 minutes · Docker Pirates ARMed with explosive stuff
+https://blog.philipphauer.de/tutorial-continuous-delivery-with-docker-jenkins/ | Tutorial: Continuous Delivery with Docker and Jenkins
+https://www.digitalocean.com/community/tutorials/how-to-set-up-jenkins-for-continuous-development-integration-on-centos-7 | How To Set Up Jenkins for Continuous Development Integration on CentOS 7 | DigitalOcean
+http://localhost:8025/# | MailHog
+
+https://medium.com/@cnishina/how-does-protractor-launch-a-browser-39fb591e891#.ozwj7nthq | How does Protractor launch a browser? – Medium
+https://github.com/angular/protractor/tree/master/exampleTypescript | protractor/exampleTypescript at master · angular/protractor · GitHub
+http://www.protractortest.org/#/style-guide#http:%2F%2Fwww.protractortest.org%2F%23%2Fstyle-guide%23prefer-by-id-and-by-css-when-no-protractor-locators-are-available | www.protractortest.org/#/style-guide#http:%2F%2Fwww.protractortest.org%2F%23%2Fstyle-guide%23prefer-by-id-and-by-css-when-no-protractor-locators-are-available
+http://jqfundamentals.com/chapter/jquery-basics | jQuery Fundamentals :: jQuery Basics
+https://strongloop.com/strongblog/switch-between-configure-public-and-private-npm-registry/ | StrongLoop | Easy Switching Between Public and Private npm Registries
+http://stackoverflow.com/questions/24807702/angularjs-protractor-finding-an-element-on-a-page-using-ng-click-binding | jasmine - AngularJS Protractor - Finding an Element on a Page Using Ng-Click Binding - Stack Overflow
+http://www.codeblocq.com/2016/05/Expose-your-local-website-to-the-world-with-ngrok/ | Expose your local website to the world with ngrok | CodeBlocQ
+https://www.twilio.com/blog/2013/10/test-your-webhooks-locally-with-ngrok.html | Test Your Webhooks Locally With NGrok
+https://ghostinspector.com/docs/test-local-and-firewalled-websites/ | Executing Tests on Local and Firewalled Websites - Ghost Inspector
+https://www.helix.com/our-team/ | Our team - Discover your DNA story.
+https://leanpub.com/groovytutorial/read | Read The Groovy 2 Tutorial | Leanpub
+https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner | Code Runner - Visual Studio Marketplace
+https://github.com/animulli/jenkins2-course-spring-boot | GitHub - animulli/jenkins2-course-spring-boot: Spring Boot
+http://christoph-burmeister.eu/?p=2989 | Execute Jenkins Maven builds in Docker containers | Christoph Burmeister
+https://www.cloudbees.com/blog/new-way-do-continuous-delivery-maven-and-jenkins-pipeline | A New Way to Do Continuous Delivery with Maven and Jenkins Pipeline | CloudBees
+https://deis.com/blog/2016/connecting-docker-containers-1/ | Connecting Docker Containers, Part One
+https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04 | How To Install Wordpress and PhpMyAdmin with Docker Compose on Ubuntu 14.04 | DigitalOcean
+https://docs.docker.com/compose/compose-file/#/version-2 | Compose File Reference - Docker
+https://medium.com/@giorgioto/docker-compose-yml-from-v1-to-v2-3c0f8bb7a48e#.llg9d5sft | Docker-compose.yml: from V1 to V2 – Medium
+
+http://thenewstack.io/cloudbees-jenkins-2-0-adds-pipeline-code-continuous-delivery/ | Jenkins 2.0 Adds Pipeline-as-Code for Continuous Delivery - The New Stack
+http://thenewstack.io/minimesos-simplifying-path-application-testing-production/ | How Minimesos is Simplifying the Path from Application Testing to Production - The New Stack
+http://thenewstack.io/qa-erica-brescia-bitnami/ | Q&A with Erica Brescia, Bitnami: Continuous Deployment at Production Scale - The New Stack
+http://thenewstack.io/openstack-austin-godaddy-amping-infrastructure/ | GoDaddy on Smart Workflow Automation - The New Stack
+http://thenewstack.io/wercker-workflows-allows-developers-tether-multiple-pipelines/ | Wercker Workflows Allows Developers to Tether Multiple Pipelines - The New Stack
+http://thenewstack.io/godaddy-makes-infrastructure-improvements-team-effort/ | How GoDaddy Streamlines Provisioning with OpenStack and Microservices - The New Stack
+http://thenewstack.io/confluent-offer-kafka-classes/ | Confluent to Offer Classes on How to Run Kafka Correctly - The New Stack
+http://thenewstack.io/node-js-foundation-announces-node-js-v6/ | The New Node.js Loads Modules Four Times Faster - The New Stack
+https://www.reddit.com/r/docker | Docker: An open source project to pack, ship and run any application as a lightweight container
+https://www.ctl.io/developers/blog/post/gracefully-stopping-docker-containers/ | Gracefully Stopping Docker Containers - CenturyLink Cloud Developer Center
+https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md | docker-node/BestPractices.md at master · nodejs/docker-node · GitHub
+https://blog.docker.com/2016/05/docker-net-core-clr-rc2/ | Docker and .NET Core CLR Release Candidate 2 | Docker Blog
+https://hub.docker.com/_/jenkins/ | https://hub.docker.com/_/jenkins/
+http://engineering.riotgames.com/news/putting-jenkins-docker-container | Putting Jenkins in a Docker Container | Riot Games Engineering
+http://www.therightcode.net/use-docker-jenkins-to-run-github-tests/ | Use Docker + Jenkins to run GitHub tests
+https://github.com/GoesToEleven/GolangTraining | GitHub - GoesToEleven/GolangTraining: Training for Golang (go language)
+https://jenkins.io/projects/blueocean/#pipelines | Blue Ocean
+https://github.com/jenkinsci/blueocean-plugin | GitHub - jenkinsci/blueocean-plugin: Blue Ocean UI app
+https://github.com/jenkinsci/acceptance-test-harness | GitHub - jenkinsci/acceptance-test-harness: Acceptance tests cases for Jenkins and its plug-ins based on selenium and docker.
+https://hub.docker.com/r/jenkinsci/jenkins/tags/ | https://hub.docker.com/r/jenkinsci/jenkins/tags/
+https://hub.docker.com/_/jenkins/ | https://hub.docker.com/_/jenkins/
+https://www.browserstack.com/automate/continuous-integration#ci-jenkins | Run Selenium tests from Continuous Integration tools on BrowserStack.
+https://github.com/browserstack/protractor-browserstack | GitHub - browserstack/protractor-browserstack: Selenium examples for Protractor and BrowserStack Automate
+https://github.com/apache/incubator-airflow | GitHub - apache/incubator-airflow: Apache Airflow (Incubating)
+https://seene.co/tech/#slam | Seene: Technology
+https://labs.spotify.com/2016/02/08/technical-career-path/ | Building a technical career path at Spotify | Labs
+https://www.google.com/search?q=spotify%20test%20automation | spotify test automation - Google Search
+https://www.spotify.com/us/jobs/view/oOKO2fw8/ | Test Automation - Spotify
+http://www.slideshare.net/AndrewDzynia/quality-built-in/11-11_Step_1_Prototyping_phase | 11 Step 1 - Prototyping
+http://www.slideshare.net/SmartBear_Software/how-spotify-does-test-management-kristian-karl | How Spotify Does Test Automation - Kristian Karl
+http://www.slideshare.net/EuroSTARConference/ta-29073399 | "Experiences Of Test Automation At Spotify" with Kristian Karl
+https://gist.github.com/addyosmani/5336747 | So, you want to run Chrome headless. · GitHub
+https://www.google.com/search?q=chrome%20headless | chrome headless - Google Search
+https://twitter.com/samccone/status/739166801427210240 | Sam Saccone on Twitter: "Headless Chrome is coming so soon 🎪!!! Say goodbye to the myriad of hacks to run Chrome and phantom on CI. 🌊 https://t.co/ucDBbgpBO0"
+https://github.com/o2platform/electrium | GitHub - o2platform/electrium: Browser automation based on Electron (similar to Selenium)
+https://github.com/o2platform/electrium | GitHub - o2platform/electrium: Browser automation based on Electron (similar to Selenium)
+https://twitter.com/webdriverio | WebdriverIO (@webdriverio) | Twitter
+https://jobs.lever.co/kariusdx | https://jobs.lever.co/kariusdx
+https://www.joedog.org/siege-manual/ | Siege Manual
+http://engineering.wingify.com/posts/angularapp-e2e-testing-with-protractor/ | Wingify Engineering - Testing AngularJS Apps End to End Using Protractor
+
+https://speakerdeck.com/zenorocha/tracking-dot-js | Tracking.js // Speaker Deck
+https://hackernoon.com/starting-new-with-javascript-9a94f481485a#.lat5619dp | Starting new with Javascript
+https://openai.com/blog/GTA-V-plus-Universe/ | GTA V + Universe
+https://techcrunch.com/2017/01/11/gigrove-wants-to-match-skilled-freelancers-and-startups-with-spare-rooms/ | GigRove wants to match skilled freelancers and startups with spare rooms | TechCrunch
+
+https://www.wired.com/2017/01/d-wave-turns-open-source-democratize-quantum-computing/ | Quantum Computing Is Real, and D-Wave Just Open-Sourced It | WIRED
+https://founderkit.com/ | Founderkit - Ratings & Reviews of the Best Startup Products
+http://www.jasonshen.com/2017/ridejoy-lessons-learned/ | Ridejoy: Lessons Learned - The Art of Ass-Kicking
+https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.l1k65sv47 | React’s Five Fingers of Death. Master these five concepts, then master React.
+
+http://www.theverge.com/2017/1/9/14208720/neodriven-george-hotz-comma-ai-self-driving-car | Neodriven is a rearview mirror replacement that can make your car semi-autonomous - The Verge
+https://commaai.blogspot.com/ | we are comma.ai
+
+https://github.com/capitalone/Hygieia | capitalone/Hygieia: CapitalOne DevOps Dashboard
+http://docs.python-guide.org/en/latest/writing/tests/#nose | Testing Your Code — The Hitchhiker's Guide to Python
+http://stackoverflow.com/questions/29637076/python-unittest-for-method-returning-json-string | Python Unittest for method returning json string - Stack Overflow
+https://docs.python.org/3/library/unittest.html | 26.4. unittest — Unit testing framework — Python 3.5.2 documentation
+http://nose2.readthedocs.io/en/latest/plugins/coverage.html#configuration-coverage | Test coverage reporting — nose2 0.6.0 documentation
+https://stedolan.github.io/jq/manual/#Builtinoperatorsandfunctions | jq Manual (development version)
+https://pypi.python.org/pypi/jq | jq 0.1.6 : Python Package Index
+https://gist.github.com/animulli/72b5e8737965f1110cef84bb46591035 | basemountcli_phusion
+https://docs.docker.com/engine/reference/builder/#entrypoint | Dockerfile reference - Docker
+https://hub.docker.com/r/webnicer/protractor-headless/ | webnicer/protractor-headless - Docker Hub
+https://github.com/jmenga/todobackend/blob/master/Jenkinsfile | todobackend/Jenkinsfile at master · jmenga/todobackend
+https://httpie.org/doc#viewing-intermediary-requests-responses | Documentation | HTTPie – CLI HTTP client
+http://ricostacruz.com/cheatsheets/httpie.html | httpie cheatsheet
+https://github.com/jkbrzt/httpie/issues/78 | Syntax for nested JSON · Issue #78 · jkbrzt/httpie
+https://help.github.com/articles/syncing-a-fork/ | Syncing a fork - User Documentation
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=nodejs%20service%20to%20execute%20windows%20commands | nodejs service to execute windows commands - Google Search
+https://www.jetbrains.com/rider/documentation/rider_survival_guide.html | JetBrains Rider — EAP Survival Guide
+
+https://www.reddit.com/r/datascience/comments/5j1ayl/a_junior_data_scientist_bookshelf_including_free/ | A Junior Data Scientist Bookshelf (including free versions and HN discussions) : datascience
+http://www.hostingadvice.com/blog/vim-creator-champions-charityware/ | Vim Creator Champions Charityware: Bram Moolenaar Discusses Developing the Popular Text Editor, How He Uses It, and Version 8 - HostingAdvice.com
+
+http://docker-saigon.github.io/post/Docker-Internals/ | Docker Internals -- Docker Saigon
+http://blog.plover.com/prog/git-tastrophe.html | The Universe of Discourse : Another Git catastrophe cleaned up
+
+http://thenewstack.io/typescript-2-new-version-javascript-scales/ | TypeScript Expands to Offer Functional Programming, Node.js Integration - The New Stack
+http://thenewstack.io/machine-learning-10-lines-code/ | Machine Learning using TensorFlow in 10 Lines of Code - The New Stack
+https://wilsonmar.github.io/swagger/ | API Development with Swagger – Home
+https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-3-simplifying-specification-file/ | Writing OpenAPI (Swagger) Specification Tutorial – Part 3 – Simplifying specification file | API Handyman
+https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md#schemaObject | OpenAPI-Specification/2.0.md at master · OAI/OpenAPI-Specification
+https://github.com/apigee-127/swagger-tools/issues/25 | Support for validating API response messages against model schema · Issue #25 · apigee-127/swagger-tools
+http://editor.swagger.io/#/ | Swagger Editor
+https://aws.amazon.com/ecs/ | Amazon EC2 Container Service – Docker Management – AWS
+https://app.shippable.com/product.html | Continuous Integration with Docker | Shippable
+https://www.jetbrains.com/resharper/whatsnew/#v2016-1-more-on-javascript-and-typescript | ReSharper :: What's New in ReSharper
+https://hub.docker.com/_/mono/ | library/mono - Docker Hub
+https://github.com/jciolek/docker-protractor-headless | jciolek/docker-protractor-headless: Protractor end to end testing for AngularJS - dockerised and headless with real Chrome.
+
+http://200ok.ch/jq-my-new-favorite-tool-to-work-with-json-on-the-command-line/index.html | 200ok - Consultancy, Research Lab, Incubator
+https://stedolan.github.io/jq/manual/#Basicfilters | jq Manual (development version)
+http://programminghistorian.org/lessons/json-and-jq#create-new-json--and- | Reshaping JSON with jq | Programming Historian
+https://github.com/simeji/jid | simeji/jid: json incremental digger
+https://medium.freecodecamp.com/how-your-startup-can-leverage-production-grade-infrastructure-for-less-than-200-month-15c3724038b4#.luf3yi79m | How your startup can leverage production-grade infrastructure for less than $200/month
+http://blog.runscope.com/posts/api-tests-level-up-automated-browser-test-steps-with-ghost-inspector | API Tests Level Up: Automated Browser Test Steps with Ghost Inspector — Runscope Blog
+https://ghostinspector.com/ | Automated Website Testing and Monitoring - Ghost Inspector
+http://seanglover.com/blog/2012/06/integration-testing-with-facebook/ | Integration Testing with Facebook
+https://medium.com/@daviddentoom/how-to-automate-tinder-using-node-js-5733264440eb#.742urt62b | How to automate Tinder using Node.JS – Medium
+https://blog.engineyard.com/2014/bats-test-command-line-tools | How to use Bats to test your command line tools
+https://spin.atomicobject.com/2016/01/11/command-line-interface-testing-tools/ | Tools for Testing Command Line Interfaces
+https://www.pantz.org/software/expect/expect_examples_and_tips.html | Expect examples and tips
+http://stackoverflow.com/questions/733824/how-to-run-a-sh-script-in-an-unix-console-mac-terminal | bash - How to run a .sh-script in an Unix console/Mac terminal? - Stack Overflow
+http://www.admin-magazine.com/Articles/Automating-with-Expect-Scripts | Using Expect Scripts to Automate Tasks » ADMIN Magazine
+
+https://medium.com/@hunchly/why-i-created-hunchly-513a3f870a8f#.g1f3eqydb | Why I Created Hunchly – Medium
+https://github.com/groupon/Selenium-Grid-Extras | groupon/Selenium-Grid-Extras: Simplify the managment of the Selenium Grid Nodes and stabilize said nodes by cleaning up the test environment after the build has been completed
+https://www.google.com/search?q=protractor+jasmine+reporters&oq=protractor+reports&aqs=chrome.2.69i57j0l4j69i61.9411j0j4&sourceid=chrome&ie=UTF-8#q=protractor%20junit%20reporter | protractor junit reporter - Google Search
+http://webcache.googleusercontent.com/search?q=cache:2xZL9GPdc0QJ:blog.smaato.com/automated-end-to-end-testing-with-protractor-docker-jenkins+&cd=6&hl=en&ct=clnk&gl=us | Automated End-To-End Testing with Protractor, Docker and Jenkins
+https://github.com/spotify/docker-maven-plugin | spotify/docker-maven-plugin: A maven plugin for Docker
+https://tobythetesterblog.wordpress.com/2014/10/26/getting-started-with-protractor-to-automate-e2e-tests-for-angularjs-apps/ | Getting started with Protractor to automate E2E tests for AngularJS apps – Toby The Testers Blog
+https://github.com/swissmanu/protractor-screenshot-reporter | swissmanu/protractor-screenshot-reporter: Reporter for Protractor. Asks Selenium for a screenshot after every test case and stores it along with test case details.
+https://github.com/larrymyers/jasmine-reporters | larrymyers/jasmine-reporters: Reporter classes for the jasmine test framework. Includes JUnitXmlReporter for generating junit xml output for running in CI environments like Jenkins.
+https://moduscreate.com/protractor_parameters_adding_flexibility_automation_tests/ | Protractor Parameters: Adding Flexibility to Automation Tests - Modus Create
+https://github.com/yandex-qatools | Yandex QATools
+https://github.com/yandex/yandex-tank | yandex/yandex-tank: Load and performance benchmark tool
+http://www.tothenew.com/blog/2008/02/ | February, 2008 | TO THE NEW Blog
+https://www.youtube.com/watch?v=wqEeYee47NQ | Frontend testing (Angular2) - YouTube
+http://www.thegeekstuff.com/2009/09/unix-sed-tutorial-replace-text-inside-a-file-using-substitute-command/ | Unix Sed Tutorial: Find and Replace Text Inside a File Using RegEx
+
+https://code.visualstudio.com/Docs/editor/extension-gallery | Managing Extensions in Visual Studio Code
+https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Downloads | Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=luciannaie.protractor-test-runner | Protractor Test Runner - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory | Git History (git log) - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks | Bookmarks - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense | Path Intellisense - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json | Prettify JSON - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint | HTMLHint - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=spywhere.guides | Guides - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode | Wallaby.js - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero | TypeScript Hero - Visual Studio Marketplace
+
+
+https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys | SSH Essentials: Working with SSH Servers, Clients, and Keys | DigitalOcean
+http://thenewstack.io/towards-cloud-native-operations/ | Cloud Native: Service-driven Operations that Save Money, Increase IT Flexibility - The New Stack
+https://github.com/Microsoft/Docker.DotNet | Microsoft/Docker.DotNet: .NET (C#) Client Library for Docker API
+https://goreplay.org/ | GoReplay - test your system with real data
+http://code.flickr.net/2016/04/25/introducing-yakbak-record-and-playback-http-interactions-in-nodejs/ | Introducing yakbak: Record and playback HTTP interactions in NodeJS | code.flickr.com
+
+http://stackoverflow.com/questions/6988849/reset-jenkins-configuration-command-line | security - Reset Jenkins Configuration Command Line - Stack Overflow
+https://hub.docker.com/account/settings/ | Account Settings - Docker Hub
+https://github.com/animulli/protractortest/tree/master | animulli/protractortest
+http://www.protractortest.org/#/ | Protractor - end to end testing for AngularJS
+https://github.com/storybooks/react-storybook/issues/15 | Getting 404 Registry returned when trying to run `npm install` · Issue #15 · storybooks/react-storybook
+https://docs.npmjs.com/cli/config | config | npm Documentation
+https://github.com/apigee-127/swagger-testing | apigee-127/swagger-testing: Automated API Testing Using SwaggerAPI
+
+https://www.google.com/search?q=Capture+for+JIRA&oq=Capture+for+JIRA&aqs=chrome..69i57j0l5.198j0j7&sourceid=chrome&ie=UTF-8#q=create+a+jira+chrome+extension&start=10 | create a jira chrome extension - Google Search
+http://blog.wix.engineering/2015/07/19/build-your-own-chrome-extension/ | Build Your Own Chrome Extension | Wix Engineering
+https://github.com/square/jirafy | square/jirafy: Chrome extension that linkifies JIRA ticket numbers on select pages.
+https://answers.atlassian.com/questions/108340/chrome-extension-for-jira | Chrome Extension for Jira - Atlassian Answers
+https://github.com/hbmartin/chrome-jira/blob/master/background.js | chrome-jira/background.js at master · hbmartin/chrome-jira
+
+http://ussd-ofcmc5278.local:2990/jira/secure/RapidBoard.jspa?rapidView=1&projectKey=BASE&view=planning.nodetail&selectedIssue=BASE-3&versions=visible | Team Board - Agile Board - Your Company JIRA
+https://my.atlassian.com/product | Licenses - My Atlassian
+http://ussd-ofcmc5278.local:1990/confluence/plugins/createcontent/draft-createpage.action?draftId=1081346 | EHAD_TP_110116_0 1.0 Test Protocol (1) - Demonstration Space - Confluence
+https://developer.atlassian.com/confdev/confluence-plugin-guide/confluence-blueprints/write-a-simple-confluence-blueprint-plugin | Write a simple Confluence Blueprint plugin - Atlassian Developers
+https://bitbucket.org/atlassian_tutorial/confluence-eventlistener-blueprint/src/f44998777b140edb8ad72dc6a4ef827e65418c25/pom.xml?at=master&fileviewer=file-view-default | atlassian_tutorial / confluence-eventlistener-blueprint / source / pom.xml — Bitbucket
+https://answers.atlassian.com/questions/304409/maven-amps-plugin4.2.20copy-bundled-dependencies-java.lang.nosuchmethoderror | maven-amps-plugin:4.2.20:copy-bundled-dependencies: java.lang.NoSuchMethodError - Atlassian Answers
+https://developer.atlassian.com/confdev/development-resources/confluence-build-information | Confluence Build Information - Atlassian Developers
+https://answers.atlassian.com/questions/40229/cant-build-plugin-project | can't build plugin project - Atlassian Answers
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=confluence%20blueprint%20install%20twice%20to%20work | confluence blueprint install twice to work - Google Search
+
+https://httpie.org/docs | Documentation | HTTPie
+https://www.npmjs.com/package/tunnel-ssh | tunnel-ssh
+https://github.com/agebrock/tunnel-ssh | agebrock/tunnel-ssh: Easy ssh tunneling
+http://stackoverflow.com/questions/17245881/node-js-econnreset | node.js - Node js ECONNRESET - Stack Overflow
+http://stackoverflow.com/questions/35924559/unable-to-connect-to-database-sequelizeconnectionrefusederror-connect-econnref | postgresql - Unable to connect to database: SequelizeConnectionRefusedError: connect ECONNREFUSED - Stack Overflow
+https://github.com/Microsoft/vscode/issues/6173 | Running docker in the background gives "Attribute 'program' does not exist ('path')" when clicking launcher · Issue #6173 · Microsoft/vscode
+https://code.visualstudio.com/Docs/editor/debugging | Debugging in Visual Studio Code
+http://stackoverflow.com/questions/31169259/how-to-debug-typescript-files-in-visual-studio-code | vscode - how to debug typescript files in visual studio code - Stack Overflow
+https://deepstream.io/#1.0 | deepstream.io - the open realtime server
+https://blogs.dropbox.com/tech/2016/09/how-dropbox-securely-stores-your-passwords/ | How Dropbox securely stores your passwords | Dropbox Tech Blog
+http://docs.sequelizejs.com/en/v3/api/sequelize/ | Sequelize - Sequelize | The Node.js / io.js ORM for PostgreSQL, MySQL, SQLite and MSSQL
+https://www.getpostman.com/ | Postman | Supercharge your API workflow
+http://blog.getpostman.com/2016/08/23/using-the-postman-chrome-app-implications-from-the-recent-google-announcement/ | Using the Postman Chrome App? Implications from the Recent Google Announcement – Postman Blog
+https://github.com/buger/gor | buger/gor: Gor is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+
+https://www.soasta.com/blog/ | Performance Testing Blog - Best Practices & Thought Leadership | SOASTA
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=loadpass+for+cloud+performance+beyondsoft | loadpass for cloud performance beyondsoft - Google Search
+https://www.crunchbase.com/organization/gogrid#/entity | GoGrid | crunchbase
+http://algs4.cs.princeton.edu/34hash/ | Hash Tables
+https://news.ycombinator.com/item?id=12262586 | Ask HN: What are good reads for designing APIs? | Hacker News
+https://www.r-bloggers.com/text-analysis-of-trumps-tweets-confirms-he-writes-only-the-angrier-android-half/ | Text analysis of Trump’s tweets confirms he writes only the (angrier) Android half | R-bloggers
+https://github.com/kovetskiy/go-fast | kovetskiy/go-fast: Compile Go programs 7x faster
+http://techblog.netflix.com/2016/08/automated-testing-on-devices.html | The Netflix Tech Blog: Automated testing on devices
+
+http://blog.trello.com/trello-inbox-by-gmail-notifications/ | Trello and Inbox by Gmail: Keep Your Email Notifications Excellent - Trello Blog
+https://www.goinggo.net/ | Going Go Programming
+http://techblog.netflix.com/2016/08/building-fastcom.html | The Netflix Tech Blog: Building fast.com
+https://blogs.dropbox.com/tech/2016/08/fast-and-accurate-document-detection-for-scanning/ | Fast and Accurate Document Detection for Scanning | Dropbox Tech Blog
+http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html | gdb Debugging Full Example (Tutorial): ncurses
+http://blog.chromium.org/2016/08/chrome-53-beta-shadow-dom.html | Chromium Blog: Chrome 53 Beta: Shadow DOM, PaymentRequest, and Android autoplay
+https://hackerlists.com/tensorflow-resources/#.V6oZHaMMnQc.hackernews | The Ultimate List of TensorFlow Resources: Books, Tutorials & More - Hacker Lists
+
+http://thenewstack.io/electron-brings-cross-platform-javascript-apps-to-the-desktop/ | Electron Brings Cross-Platform JavaScript Apps to the Desktop - The New Stack
+http://thenewstack.io/pinterest-uses-varnish-vcl-manage-50b-pins-month/ | Pinterest Uses Varnish VCL to Manage 50 Billion Pins a Month - The New Stack
+http://thenewstack.io/single-tesla-engineer-uses-varnish-create-private-cdn/ | How a Single Engineer used Varnish to Build Tesla a Private CDN - The New Stack
+
+http://www.wilfred.me.uk/blog/2016/07/30/example-driven-development/ | Example Driven Development – Wilfred Hughes::Blog
+https://github.com/frankmcsherry/blog/blob/master/posts/2016-07-26.md | blog/2016-07-26.md at master · frankmcsherry/blog
+http://bryce.is/writing/code/macosx/debugging/udp/sockets/dtruss/dtrace/eaddrinuse/2016/07/30/debugging-using-system-calls.html | Debugging using system calls in Mac OS X
+
+http://www.testingdiaries.com/selenium-ide-loop/ | Selenium IDE Loop Example - Testing Diaries
+http://thenewstack.io/all-about-microbadger-com/ | MicroBadger and the Awesome Power of Container Labels - The New Stack
+http://thenewstack.io/six-years-later-mesos-makes-version-1-0-now-real-fun-begins/ | After Six Years, Mesos Hits Version 1.0. Now the Real Fun Begins - The New Stack
+http://thenewstack.io/spotify-learned-flop-app-store/ | What Spotify Learned From the Flop of its App Store - The New Stack
+http://thenewstack.io/introducing-riemann/ | The Art of Monitoring: Introducing Riemann - The New Stack
+https://paw.cloud/ | Paw – The most advanced API tool for Mac
+https://github.com/Runscope/httpbin | Runscope/httpbin: HTTP Request & Response Service, written in Python + Flask.
+
+https://hub.docker.com/r/coderfi/jenkins-plus/ | https://hub.docker.com/r/coderfi/jenkins-plus/
+http://engineeringblog.yelp.com/2016/03/elastalert-part-two.html | ElastAlert: Alerting At Scale With Elasticsearch, Part 2
+http://elastalert.readthedocs.io/en/latest/running_elastalert.html | Running ElastAlert for the First Time — ElastAlert 0.0.1 documentation
+https://hub.docker.com/r/ivankrizsan/elastalert/ | https://hub.docker.com/r/ivankrizsan/elastalert/
+https://github.com/krizsan/elastalert-docker/blob/master/Dockerfile | elastalert-docker/Dockerfile at master · krizsan/elastalert-docker
+https://hub.docker.com/r/peopleperhour/elastalert/ | https://hub.docker.com/r/peopleperhour/elastalert/
+https://github.com/PeoplePerHour/elastalert-docker/blob/master/start-elastalert.sh | elastalert-docker/start-elastalert.sh at master · PeoplePerHour/elastalert-docker
+https://github.com/wsargent/docker-cheat-sheet | wsargent/docker-cheat-sheet: Docker Cheat Sheet
+https://docs.docker.com/engine/reference/commandline/run/ | run
+https://nodejs.org/en/docs/faq/ | FAQ | Node.js
+https://www.digitalocean.com/community | DigitalOcean Community | DigitalOcean
+http://nodeschool.io/#workshoppers | NodeSchool
+
+https://medium.com/@teabass/libraries-io-the-first-two-months-89dfe1ead81#.7plvvdu7t | Libraries.io - The first two months — Medium
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=jquery+div+hidden+check | jquery div hidden check - Google Search
+http://stackoverflow.com/questions/10061414/changing-width-property-of-a-before-css-selector-using-jquery | javascript - Changing width property of a :before css selector using JQuery - Stack Overflow
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=jquery%20selectors | jquery selectors - Google Search
+http://www.w3schools.com/jquery/sel_visible.asp | jQuery :visible Selector
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=jquery%20element%20parent | jquery element parent - Google Search
+http://www.protractortest.org/#/api?view=ElementArrayFinder.prototype.each | Protractor - end to end testing for AngularJS
+http://stackoverflow.com/questions/23720398/protractor-how-to-locate-a-sibling-of-a-given-element | javascript - Protractor: How to locate a sibling of a given element? - Stack Overflow
+http://stackoverflow.com/questions/33021091/how-to-select-a-visible-element-in-protractor-with-angularjs | javascript - How to select a visible element in Protractor with Angularjs - Stack Overflow
+http://www.w3schools.com/jquery/jquery_ref_selectors.asp | jQuery Selectors
+http://engineering.wingify.com/posts/angularapp-e2e-testing-with-protractor/ | Wingify Engineering - Testing AngularJS Apps End to End Using Protractor
+http://stackoverflow.com/questions/27192648/protractor-find-hidden-input-element-by-attribute-value | Protractor: find hidden input element by attribute value - Stack Overflow
+
+http://editor.swagger.io/#/ | Swagger Editor
+http://swagger.io/specification/#responsesDefinitionsObject | Specification – Swagger
+https://github.com/swagger-api/swagger-ui/issues/1117 | Response headers not being displayed for either 200 or other responses · Issue #1117 · swagger-api/swagger-ui · GitHub
+https://blog.codeship.com/a-serverless-rest-api-in-minutes/ | A Serverless REST API in Minutes with Serverless Framework | via @codeship
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=typescript%20tutorials | typescript tutorials - Google Search
+http://blog.teamtreehouse.com/getting-started-typescript | Getting Started with TypeScript - Treehouse Blog
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=typescript+data+type+object+function+parameter | typescript data type object function parameter - Google Search
+http://thenewstack.io/lessons-learned-building-linkedin-app-six-months/ | Lessons Learned From Building a LinkedIn App in Six Months - The New Stack
+http://thenewstack.io/developers-laptop-container-workspace-codenvy/ | A Tour of Codenvy's Portable Developer Workspaces - The New Stack
+http://thenewstack.io/contributing-prometheus-history-alertmanager/ | Contributing to Prometheus: An Open Source Tutorial - The New Stack
+https://hub.docker.com/_/jenkins/ | https://hub.docker.com/_/jenkins/
+https://hub.docker.com/_/alpine/ | https://hub.docker.com/_/alpine/
+http://gliderlabs.viewdocs.io/docker-alpine/usage/ | docker-alpine :: viewdocs.io
+
+https://medium.com/hashnode-insights/rob-eisenberg-on-aurelia-and-how-it-stacks-up-against-angular-2-and-react-82721d714449#.vfsfd1opk | Rob Eisenberg on Aurelia and how it stacks up against Angular 2 and React — Hashnode Insights — Medium
+https://blog.testmunk.com/a-guide-to-automate-ui-testing-for-phonegap-cordova-apps/ | A Guide to Automate UI testing for Phonegap / Cordova apps
+\http://stackoverflow.com/questions/34414413/confluence-rest-api-request-while-not-being-admin-ends-in-401-error | javascript - confluence REST API request while not being admin ends in 401 error - Stack Overflow
+http://docs.getzephyr.apiary.io/#reference/executionresource/get-list-of-execution/get-defect-list | Zephyr for JIRA API · Apiary
+http://www.jonathan-petitcolas.com/2014/11/27/creating-json-web-token-in-javascript.html | Creating JSON Web Token in JavaScript - Jonathan Petitcolas
+https://github.com/auth0/node-jsonwebtoken | GitHub - auth0/node-jsonwebtoken: JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
+http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies | node.js - What's the difference between dependencies, devDependencies and peerDependencies in npm package.json file? - Stack Overflow
+http://stackoverflow.com/questions/9575790/how-to-get-time-in-milliseconds-since-the-unix-epoch-in-javascript | How to get time in milliseconds since the unix epoch in Javascript? - Stack Overflow
+https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md | OpenAPI-Specification/2.0.md at master · OAI/OpenAPI-Specification · GitHub
+https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript | What's new in TypeScript · Microsoft/TypeScript Wiki · GitHub
+https://www.getpostman.com/docs/testing_examples | Postman | Testing examples
+http://apigee.com/about/blog/developer/swagger-test-templates-test-your-apis | Swagger Test Templates: Test Your APIs | Apigee
+https://mochajs.org/#retry-tests | Mocha - the fun, simple, flexible JavaScript test framework
+https://coveralls.io/jobs/7383948/source_files/1013010456 | BigstickCarpet/swagger-express-middleware | Job 3 | lib/request-validator.js | Coveralls - Test Coverage History & Statistics
+
+http://developers.lyst.com/2015/09/29/getting-to-grips-with-selenium/ | Getting to grips with Selenium | Lyst Engineering Blog
+https://mestachs.wordpress.com/2012/08/13/selenium-best-practices/ | Selenium Best Practices | Don't Make the Same Mistake Twice
+http://www.protractortest.org/#/api?view=webdriver.By.xpath | Protractor - end to end testing for AngularJS
+https://bintray.com/ | Bintray - Download Center Automation & Distribution w. Private Repositories
+https://github.com/Microsoft/TypeScript/wiki/JsDoc-support-in-JavaScript | JsDoc support in JavaScript · Microsoft/TypeScript Wiki · GitHub
+http://thenewstack.io/perspica-deploys-machine-learning-fuse-application-infrastructure-monitoring/ | Perspica Deploys Machine Learning to Fuse Application and Infrastructure Monitoring - The New Stack
+http://thenewstack.io/google-firebase-trims-middle-tier-faster-app-dev/ | Google Firebase Trims the Middle Tier for Faster App Dev - The New Stack
+http://thenewstack.io/sourcegraph-aims-google-code/ | Sourcegraph Aims to be the 'Google for Code' - The New Stack
+http://thenewstack.io/intro-to-apcera-community-edition/ | Building Applications with Apcera Community Edition - The New Stack
+http://www.apcera.com/ | Apcera The Trusted Cloud Platform | Innovation, Meet Trust.
+
+http://www.protractortest.org/#/tutorial | Protractor - end to end testing for AngularJS
+https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=protractor&starCount=0 | https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=protractor&starCount=0
+https://hub.docker.com/r/caltha/protractor/ | https://hub.docker.com/r/caltha/protractor/
+https://hub.docker.com/r/webnicer/protractor-headless/ | https://hub.docker.com/r/webnicer/protractor-headless/
+https://github.com/jciolek/docker-protractor-headless/blob/master/Dockerfile | docker-protractor-headless/Dockerfile at master · jciolek/docker-protractor-headless · GitHub
+http://ramonvictor.github.io/protractor/slides/#/49 | Protractor for AngularJS: writing end-to-end tests has never been so fun
+https://travismaynard.com/writing/using-kirby-with-vagrant | Using Kirby with Vagrant | Travis Maynard
+https://code.visualstudio.com/Docs/languages/typescript | TypeScript Programming with Visual Studio Code
+http://dm.gl/2016/04/26/wallaby-sublime-electron-ava/ | Wallaby.js - Sublime Text integration release, Electron and AVA, Angular 2 · Artem Govorov
+https://en.wikipedia.org/wiki/HTTP_cookie | HTTP cookie - Wikipedia, the free encyclopedia
+https://github.com/request/request | GitHub - request/request: Simplified HTTP request client.
+https://github.com/TheBigBrainsCompany/rest-util#usage | GitHub - TheBigBrainsCompany/rest-util: Util classes for Rest(ful) APIs
+
+http://thenewstack.io/sorry-cant-push-code-busy-shaving-yak/ | Yak Shaving No More, or How Containers Ease Application Deployment - The New Stack
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=vim%20tutorial | vim tutorial - Google Search
+http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/ | YBlog - Learn Vim Progressively
+
+http://farazdagi.com/blog/2014/rest-long-running-jobs/ | REST and long-running jobs
+https://www.iterm2.com/version3.html | Version 3 Beta - iTerm2 - Mac OS Terminal Replacement
+https://www.soapui.org/tutorials/aws.html | Amazon API Sample Project | Getting started with SoapUI
+http://raml.org/developers/test-your-api | Test Your API | RAML
+https://apiblueprint.org/ | API Blueprint | API Blueprint
+http://swagger.io/apis-guru-wikipedia-for-web-apis/ | APIs.guru – Wikipedia for Web APIs – Swagger
+http://wiremock.org/ | WireMock | WireMock
+https://apiary.io/ | Apiary — Home
+https://dzone.com/articles/cookies-vs-tokens-the-definitive-guide?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed:%20dzone | Cookies vs. Tokens: The Definitive Guide - DZone Integration
+https://google.github.io/styleguide/shell.xml | Shell Style Guide
+https://twitter.com/samccone/status/739166801427210240 | Sam Saccone on Twitter: "Headless Chrome is coming so soon 🎪!!! Say goodbye to the myriad of hacks to run Chrome and phantom on CI. 🌊 https://t.co/ucDBbgpBO0"
+https://bugs.chromium.org/p/chromium/issues/detail?id=546953#c54 | Issue 546953 - chromium - Implement a headless mode for Chrome - Monorail
+https://github.com/trueadm/inferno | GitHub - trueadm/inferno: An extremely fast, React-like JavaScript library for building modern user interfaces
+http://googlecreativelab.github.io/anypixel/ | anypixel.js
+
+https://www.facebook.com/FacebookforDevelopers/videos | Facebook for Developers
+http://thenewstack.io/rocana-aims-eliminate-blame-game-microservices-troubleshooting/ | Rocana Could Eliminate the Blame Game from Microservices Troubleshooting - The New Stack
+http://thenewstack.io/developers-need-know-mvi-model-view-intent/ | What Developers Need to Know about MVI (Model-View-Intent) - The New Stack
+http://thenewstack.io/linkedins-private-cloud-links-internal-apps/ | LinkedIn Stands Up a Private Cloud to Speed Development - The New Stack
+http://thenewstack.io/appformix-pinpoints-noisy-neighbor-problems-intel-chip-technology/ | AppFormix Pinpoints Noisy Neighbor Problems Using Intel On-Chip Technology - The New Stack
+http://thenewstack.io/software-defined-talk-58-lets-hope-google-not-serious-noops/ | Software Defined Talk: Let's Hope Google Isn't Serious about 'NoOps' - The New Stack
+http://thenewstack.io/elasticsearch-expands-relationship-modeling-new-graph-plug/ | Elasticsearch Expands into Relationship Modeling with New Graph Plugin - The New Stack
+http://thenewstack.io/kubernetes-1-2-offers-rolling-updates-persistent-volumes/ | Kubernetes 1.2 Offers Rolling Updates, Persistent Volumes - The New Stack
+
+http://blog.smartbear.com/readyapi/api-security-testing-how-to-hack-an-api-and-get-away-with-it-part-1-of-3/ | API Security Testing – How to Hack an API and Get Away with It (Part 1 of 3)
+
+https://dzone.com/articles/getting-started-with-jrebel-for-android | Getting Started With JRebel for Android - DZone Mobile
+https://dzone.com/articles/video-automate-tests-for-every-build-with-visual-s | Automate Tests for Every Build With Visual Studio Team Services [Video] - DZone DevOps
+
+https://www.getpostman.com/ | Postman | Supercharge your API workflow
+https://www.airpair.com/ruby-on-rails/posts/rails-host-comparison-aws-digitalocean-heroku-engineyard | Rails Hosts: Amazon AWS vs. Digital Ocean vs. Heroku vs. Engine Yard
+https://www.tutum.co/how/ | Docker Hosting – Run Docker Containers in any Cloud - Tutum
+https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg | Package Management Basics: apt, yum, dnf, pkg | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-configure-a-continuous-integration-testing-environment-with-docker-and-docker-compose | How To Configure a Continuous Integration Testing Environment with Docker and Docker Compose | DigitalOcean
+https://medium.com/conquering-corporate-america/here-are-the-top-tech-companies-secrets-to-hiring-the-best-people-33f432c39db2#.pbtq8ubrg | Here are the Top Tech Companies’ Secrets to Hiring the Best People — The Cooper Review — Medium
+
+https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-ubuntu-14-04 | How To Install Prometheus using Docker on Ubuntu 14.04 | DigitalOcean
+http://prometheus.io/docs/introduction/overview/ | Overview | Prometheus
+https://www.youtube.com/watch?v=cwRmXqXKGtk | Prometheus: A Next Generation Monitoring System (FOSDEM 2016) - YouTube
+http://stackshare.io/kibana | Kibana | StackShare
+https://www.elastic.co/subscriptions | Subscriptions · ELK Stack Products & Support | Elastic
+https://blog.raintank.io/logs-and-metrics-and-graphs-oh-my/ | Logs and Metrics and Graphs, Oh My!
+http://www.slideshare.net/vo_mike/the-opensource-monitoring-landscape | The Open-Source Monitoring Landscape
+
+https://www.udacity.com/course/web-tooling-automation--ud892 | Web Tooling & Automation | Udacity
+https://blog.redspread.com/2015/12/24/philosophy-of-redspread/ | Philosophy of Redspread · Redsaid
+https://github.com/castleproject/Windsor/blob/master/docs/ioc.md | Windsor/ioc.md at master · castleproject/Windsor
+
+https://github.com/atecarlos/protractor-http-mock | atecarlos/protractor-http-mock: A library designed to work alongside Protractor for setting up mocks for your HTTP ajax requests.
+https://github.com/wix/protractor-helpers | wix/protractor-helpers: Set of matchers, locators, and helper functions for Protractor
+https://github.com/mllrsohn/gulp-protractor | mllrsohn/gulp-protractor: gulp wrapper for protractor tests
+https://github.com/angular/protractor | angular/protractor: E2E test framework for Angular apps
+http://blog.jetbrains.com/webstorm/2015/05/ecmascript-6-in-webstorm-transpiling/ | ECMAScript 6 in WebStorm: Transpiling | WebStorm Blog
+
+https://github.com/allure-framework/allure-core/search?utf8=%E2%9C%93&q=testcaseid | Search Results
+https://github.com/allure-framework/allure-core/blob/72835a310ef40a639161cadcfab03d73065ff1f4/allure-java-annotations/src/main/java/ru/yandex/qatools/allure/annotations/TestCaseId.java | allure-core/TestCaseId.java at 72835a310ef40a639161cadcfab03d73065ff1f4 · allure-framework/allure-core
+https://github.com/allure-framework/allure-jasmine-plugin/blob/master/src/Jasmine2AllureReporter.js | allure-jasmine-plugin/Jasmine2AllureReporter.js at master · allure-framework/allure-jasmine-plugin
+https://github.com/allure-framework/allure-core/wiki/Issues | Issues · allure-framework/allure-core Wiki
+https://github.com/allure-framework/allure-core/wiki/Glossary#test-case | Glossary · allure-framework/allure-core Wiki
+https://github.com/allure-framework/allure-core/wiki/Test-Case-ID | Test Case ID · allure-framework/allure-core Wiki
+http://definitelytyped.org/tsd/ | TSD
+https://github.com/typings/typings | typings/typings: The manager for TypeScript definitions
+http://krasimirtsonev.com/blog/article/Extending-Jasmine-BDD-framework-for-testing | Extending Jasmine (BDD framework for testing)
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=jasmine%20attribute%20value | jasmine attribute value - Google Search
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=adding+annotations+to+mocha | adding annotations to mocha - Google Search
+http://ariya.ofilabs.com/2014/04/javascript-unit-tests-and-code-coverage-tracking-using-venus-js.html | JavaScript Unit Tests and Code Coverage Tracking using Venus.js
+https://github.com/linkedin/venus.js/blob/master/lib/testcase.js | venus.js/testcase.js at master · linkedin/venus.js
+http://jasmine.github.io/2.1/custom_reporter.html | custom_reporter.js
+https://docs.omniref.com/js/npm/backbone.hashmodels/0.5.4/symbols/jasmine.Reporter%23reportRunnerStarting | jasmine.Reporter#reportRunnerStarting method - backbone.hashmodels (0.5.4) documentation - Omniref
+
+https://hub.docker.com/r/webnicer/protractor-headless/~/dockerfile/ | https://hub.docker.com/r/webnicer/protractor-headless/~/dockerfile/
+https://github.com/jciolek/docker-protractor-headless | jciolek/docker-protractor-headless: Protractor end to end testing for AngularJS - dockerised and headless with real Chrome.
+https://hub.docker.com/r/library/alpine/ | https://hub.docker.com/r/library/alpine/
+http://gliderlabs.viewdocs.io/docker-alpine/usage/ | docker-alpine :: viewdocs.io
+http://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management#Add_a_Package | Alpine Linux package management - Alpine Linux
+https://www.digitalocean.com/community/tutorials/how-to-use-vim-for-advanced-editing-of-plain-text-or-code-on-a-vps--2 | How To Use Vim for Advanced Editing of Plain Text or Code on a VPS | DigitalOcean
+https://github.com/yikaus/docker-alpine-bash/blob/master/Dockerfile | docker-alpine-bash/Dockerfile at master · yikaus/docker-alpine-bash
+https://githowto.com/undoing_local_changes | 14. Discarding local changes (before staging)
+
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=docker+jenkins+protractor | docker jenkins protractor - Google Search
+https://www.youtube.com/watch?v=o7L0S0-4k2c | Dockerizing environments for Protractor tests and running Jenkins slaves - YouTube
+https://engineering.riotgames.com/news/putting-jenkins-docker-container | Putting Jenkins in a Docker Container | Riot Games Engineering
+http://www.dev9.com/article/2015/1/running-continous-integration-on-a-shoestring-with-docker-and-fig | Running Continous Integration on a Shoestring with Docker and Fig — Dev9
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=docker+protractor+windows&start=10 | docker protractor windows - Google Search
+http://elgalu.github.io/2014/run-protractor-against-internet-explorer-vm/ | Run protractor against Internet Explorer VM - Leo Gallucci's blog
+
+https://sandro-keil.de/blog/2015/03/23/selenium-grid-in-minutes-with-docker/ | Build a Selenium-Grid in minutes with Docker - Blog by Sandro Keil
+https://zachholman.com/posts/deploying-software | How to Deploy Software
+https://blog.docker.com/2016/03/docker-welcomes-aurora-project-creators/ | The Dawn of the Orchestration-for-All Era: Docker welcomes the creators of the Aurora project | Docker Blog
+
+https://codeship.com/documentation/docker/browser-testing/ | Browser testing | Codeship Documentation
+
+https://app.shippable.com/ | Continuous Integration with Docker | Shippable
+
+http://tylerpower.io/post/teamcity-with-docker/ | CI with Docker and TeamCity · Development and DevOps
+https://soundcloud.com/search?q=madeon | Search everything on SoundCloud
+http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro | Shaping up with Angular.js
+https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-ubuntu-14-04 | How To Install Prometheus using Docker on Ubuntu 14.04 | DigitalOcean
+https://dzone.com/articles/easy-teamcity-continuous | Easy TeamCity Continuous Integration Installation with Docker - DZone DevOps
+https://github.com/angular/protractor/tree/master/example | protractor/example at master · angular/protractor
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=setting%20up%20selenium%20on%20docker | setting up selenium on docker - Google Search
+https://github.com/SeleniumHQ/docker-selenium | SeleniumHQ/docker-selenium: Docker images for Selenium Standalone Server
+
+https://www.google.com/search?q=basespace+%22sequencing+hub%22&espv=2&biw=1436&bih=782&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjK0fuGpKPLAhUQ02MKHYToD8kQ_AUICCgD#tbm=isch&q=docker+hub&imgrc=_ | docker hub - Google Search
+https://hub.docker.com/r/webnicer/protractor-headless/ | https://hub.docker.com/r/webnicer/protractor-headless/
+https://hub.docker.com/r/webnicer/protractor-headless/~/dockerfile/ | https://hub.docker.com/r/webnicer/protractor-headless/~/dockerfile/
+https://github.com/larrymyers/jasmine-reporters | larrymyers/jasmine-reporters: Reporter classes for the jasmine test framework. Includes JUnitXmlReporter for generating junit xml output for running in CI environments like Hudson.
+https://github.com/BrowserSync/browser-sync/issues/22 | Syncing all events · Issue #22 · BrowserSync/browser-sync
+http://thenewstack.io/circleci-adds-support-os-x-premises-deployments/ | CircleCI Adds Support for OS X, On-Premises Deployments - The New Stack
+
+https://basarat.gitbooks.io/typescript/content/docs/getting-started.html | Getting Started | TypeScript Deep Dive
+https://dzone.com/articles/stoplightio-a-very-cool-api-modelling-and-proxy-to?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone | Stoplight.io: A Very Cool API Modelling and Proxy Tool - DZone Integration
+http://apievangelist.com/2016/02/16/automagically-defining-your-api-infrastructure-as-you-work-using-stoplightio/ | Automagically Defining Your API Infrastructure As You Work Using Stoplight.io
+https://designer.stoplight.io/ | API Designer
+https://www.jetbrains.com/idea/help/transpiling-typescript-to-javascript.html | Transpiling TypeScript to JavaScript
+http://stackoverflow.com/questions/33694246/protractor-e2e-test-written-in-typescript-with-page-object | jasmine - Protractor e2e test written in typescript with page object - Stack Overflow
+https://github.com/facebook/pathpicker/ | facebook/PathPicker: PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
+https://github.com/stuplum/astrolabe | stuplum/astrolabe
+
+https://github.com/ankane/pghero | ankane/pghero: The missing dashboard for Postgres
+https://github.com/bmorton/pghero_solo | bmorton/pghero_solo: Containerized, standalone instance of the pghero engine
+https://hub.docker.com/r/bmorton/pghero/ | https://hub.docker.com/r/bmorton/pghero/
+https://www.docker.com/products/docker-toolbox#/tutorials | Docker Toolbox | Docker
+https://www.docker.com/sites/default/files/UseCase/RA_CI%20with%20Docker_08.25.2015.pdf?iesrc=rcmd&astid=e060df8b-1bce-4897-a31a-9ce6d510081d&at=1&rcmd_source=BAR&req_id=be0558ae-8ac0-4112-b47f-728baf4fc8ee | RA_CI with Docker_08.25.2015.pdf
+
+https://news.ycombinator.com/item?id=10998667 | CoreOS Overview, Part One | Hacker News
+https://code.visualstudio.com/Docs/languages/typescript | TypeScript Programming with Visual Studio Code
+https://signin.aws.amazon.com/oauth?response_type=code&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Frds&redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Frds%2F%3F%26isauthcode%3Dtrue&forceMobileLayout=0&forceMobileApp=0 | Amazon Web Services Sign-In
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bitnami | bitnami - Google Search
+https://basarat.gitbooks.io/typescript/content/docs/getting-started.html | Getting Started | TypeScript Deep Dive
+https://atom.io/packages/atom-typescript | atom-typescript
+https://atom.io/docs/latest/using-atom-atom-packages | 2.1 Using Atom : Atom Packages
+https://atom.io/packages/atom-typescript | atom-typescript
+https://github.com/Microsoft/TypeScript/wiki/tsconfig.json | tsconfig.json · Microsoft/TypeScript Wiki
+http://stackoverflow.com/questions/32233148/atom-typescript-complaining-about-tsconfig-json-how-can-i-automatically-create | atom-typescript complaining about tsconfig.json--how can I automatically create one? - Stack Overflow
+
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=protractor+npm+local+vs+global+install | protractor npm local vs global install - Google Search
+https://docs.npmjs.com/getting-started/what-is-npm | 01 - What is npm? | npm Documentation
+https://www.atlassian.com/git/tutorials/using-branches/git-branch | Git branch | Atlassian Git Tutorial
+https://github.com/Definitelytyped/tsd#readme | DefinitelyTyped/tsd: TypeScript Definition manager for DefinitelyTyped
+https://github.com/typings/typings | typings/typings: The type definition manager for TypeScript
+https://github.com/DefinitelyTyped/tsd/issues/269 | Deprecate TSD · Issue #269 · DefinitelyTyped/tsd
+https://github.com/Microsoft/vscode-docs/pull/145 | Use typings instead of tsd to grab d.ts files by benfahrenheit · Pull Request #145 · Microsoft/vscode-docs
+https://angular.github.io/protractor/#/debugging | Protractor - end to end testing for AngularJS
+https://lostechies.com/derickbailey/2012/04/24/executing-a-project-specific-nodenpm-package-a-la-bundle-exec/ | Executing A Project-Specific Node/NPM Package A-la “bundle exec” | ThoughtStream.new :derick_bailey
+https://github.com/creationix/nvm | creationix/nvm: Node Version Manager - Simple bash script to manage multiple active node.js versions
+https://blog.pivotal.io/pivotal-labs/labs/new-key-features-jasmine-2-1 | New Key Features in Jasmine 2.1 | Pivotal P.O.V.
+https://github.com/TypeStrong/atom-typescript/blob/master/docs/tsconfig.md | atom-typescript/tsconfig.md at master · TypeStrong/atom-typescript
+https://github.com/Microsoft/TypeScript | Microsoft/TypeScript: TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+https://code.visualstudio.com/ | Visual Studio Code - Code Editing. Redefined.
+https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode | Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-protractor-snippets | Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=stevencl.addDocComments | Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks | Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets | Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify | Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory | Visual Studio Marketplace
+
+https://loader.io/targets | Application Load Testing Tools for API Endpoints with loader.io
+http://editor.swagger.io/#/ | Swagger Editor
+http://www.fakemailgenerator.com/inbox/gustr.com/Maby1955/message-77326633/ | Fake Mail Generator - Free temporary email addresses
+
+http://editor.swagger.io/#/ | Swagger Editor
+http://swagger.io/open-source-integrations/ | Open Source Integrations | Swagger
+https://applitools.com/profile/ | Applitools –Profile - Applitools -
+https://dev.evernote.com/doc/ | Documentation - Evernote Developers
+https://code.visualstudio.com/docs | Documentation for Visual Studio Code
+https://code.visualstudio.com/docs/languages/typescript | TypeScript Programming with Visual Studio Code
+https://marketplace.visualstudio.com/items/shyykoserhiy.vscode-spotify | Visual Studio Marketplace
+
+http://tylerpower.io/post/teamcity-with-docker/ | CI with Docker and TeamCity · Development and DevOps
+https://github.com/uber/phabricator-jenkins-plugin | uber/phabricator-jenkins-plugin
+https://getgrav.org/blog/mac-os-x-apache-setup-mysql-vhost-apc | OS X 10.11 El Capitan Apache Setup: MySQL, APC & More... | Grav
+https://www.mamp.info/en/ | MAMP & MAMP PRO
+https://plone.lucidsolutions.co.nz/software-development/continuous-integration/teamcity/teamcity-v9.x-on-centos-v7.x-with-mariadb/view | TeamCity v9.x on CentOS v7.x with MariaDB — Lucid Solutions
+https://mariadb.com/my_portal/download/java-client/1.3/connector-java-1.3.3 | MariaDB Connector/Java 1.3 | MariaDB
+
+http://www.telerik.com/blogs/fiddler-a-segue | Fiddler in 2016 and Beyond
+http://www.telerik.com/blogs/running-fiddler-in-virtualbox-on-mac | Running Fiddler in VirtualBox on Mac
+http://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/ConfigureForMac | docs.telerik.com/fiddler/Configure-Fiddler/Tasks/ConfigureForMac
+
+https://www.google.com/search?q=sudo+yum+install+PyYAML&oq=sudo+yum+install+PyYAML&aqs=chrome..69i57.303710j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | sudo yum install PyYAML - Google Search
+http://stackoverflow.com/questions/14261614/how-do-i-install-the-yaml-package-for-python | How do I install the yaml package for Python? - Stack Overflow
+http://ubuntuforums.org/showthread.php?t=1206003 | System Specs from Command Line
+
+https://github.com/google/git-appraise | google/git-appraise
+https://golang.org/doc/install | Getting Started - The Go Programming Language
+http://www.golangbootcamp.com/book/get_setup | Chapter 9: Get Setup | Go Bootcamp | Softcover.io
+http://stackoverflow.com/questions/30082674/how-to-install-a-local-rpm-file-when-building-docker-instance | dockerfile - How to install a local rpm file when building docker instance? - Stack Overflow
+https://github.com/magnetikonline/dockerbuilddeb | magnetikonline/dockerbuilddeb
+https://scottlinux.com/2014/05/04/how-to-install-and-run-docker-on-debian-wheezy/ | How To Install and Run Docker on Debian Wheezy | scottlinux.com | Linux Blog
+http://stackoverflow.com/questions/22148144/python-importerror-no-module-named-pkg-resources | pip - Python: ImportError: No module named pkg_resources - Stack Overflow
+https://www.centos.org/forums/viewtopic.php?t=31001 | CentOS • View topic - -bash: sestatus: command not found
+http://toomuchdata.com/2014/02/16/how-to-install-python-on-centos/ | How to install Python 2.7 and Python 3.3 on CentOS 6 | Too Much Data
+http://stackoverflow.com/questions/2875402/does-urllib-or-urllib2-in-python-2-5-support-https | Does urllib or urllib2 in Python 2.5 support https? - Stack Overflow
+http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=amazon+basic+laptop+stand | Amazon.com: amazon basic laptop stand
+https://build.misfit.com/docs/cloudapi/overview | Build @ Misfit
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=centos%20python-setuptools | centos python-setuptools - Google Search
+https://github.com/MeetMe/newrelic-plugin-agent/issues/356 | pkg_resources.DistributionNotFound: requests>=2.0.0 · Issue #356 · MeetMe/newrelic-plugin-agent
+https://www.google.com/search?q=ERROR+%3A+%27ascii%27+codec+can%27t+encode+character+u%27%5Cu2122%27+in+position+44679%3A+ordinal+not+in+range(128)&oq=ERROR+%3A+%27ascii%27+codec+can%27t+encode+character+u%27%5Cu2122%27+in+position+44679%3A+ordinal+not+in+range(128)&aqs=chrome..69i57.260j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=ERROR+:+%27ascii%27+codec+can%27t+encode+character+ | ERROR : 'ascii' codec can't encode character - Google Search
+http://www.joelonsoftware.com/articles/Unicode.html | The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) - Joel on Software
+http://www.sketchapp.com/features/#mirror | Sketch - Features
+https://www.youtube.com/watch?v=jkW3K2sTGuY | Design+Code (Sketch, Swift, iOS8) presented by Meng To at Budapest.Mobile Meetup - YouTube
+https://designcode.io/ | Design+Code: Learn iOS design and Xcode
+
+http://thenewstack.io/women-led-startups-take-spotlight-google-demo-day/ | Women-Led Startups Take the Spotlight on Google Demo Day - The New Stack
+http://thenewstack.io/look-inside-tensorflow-googles-open-source-deep-learning-framework/ | A Look Inside TensorFlow, Google's Open Source Deep Learning Framework - The New Stack
+https://discuss.appium.io/t/attaching-a-debugger-to-iossimulator-and-using-breakpoints/251 | Attaching a debugger to iossimulator and using breakpoints - Support - Appium Discuss
+https://discuss.appium.io/t/xpath-to-elements/2310/2 | Xpath to elements - Support - Appium Discuss
+http://selenium.googlecode.com/git/docs/api/java/org/openqa/selenium/JavascriptExecutor.html#executeScript(java.lang.String,%20java.lang.Object...) | JavascriptExecutor
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium+java+getElementByIndexPath | appium java getElementByIndexPath - Google Search
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium+ios+javascriptexecutor | appium ios javascriptexecutor - Google Search
+http://stackoverflow.com/questions/28983821/cannot-swipe-on-appium-ios-test | java - Cannot swipe on appium iOS test - Stack Overflow
+http://controlingquality.blogspot.com/search/label/Appium | Software Tester Thoughts: Appium
+http://sauceio.com/index.php/2013/12/re-blog-appium-xpath-locators-on-ios-environments-from-prototest/ | Re-blog: Appium xPath Locators on iOS Environments from ProtoTest | Selenium Testing? Do Cross Browser Testing with Sauce Labs
+https://github.com/ProtoTest/appiumXpathBuilder/blob/master/appiumXpathBuilder.java | appiumXpathBuilder/appiumXpathBuilder.java at master · ProtoTest/appiumXpathBuilder
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium%20xpath%20uiatablecell%20xpath%20off%20by%201 | appium xpath uiatablecell xpath off by 1 - Google Search
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium%20scroll%20to%20element | appium scroll to element - Google Search
+http://stackoverflow.com/questions/27058183/how-to-scroll-down-a-page-in-appium | javascript - how to scroll down a page in appium - Stack Overflow
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium%20click%20tablecell | appium click tablecell - Google Search
+https://discuss.appium.io/t/appium-doesnt-detect-cells-in-tableview/698/4 | Appium doesn't detect cells in tableview - Support - Appium Discuss
+https://discuss.appium.io/t/implicit-explicit-wait-is-not-reliable-to-find-the-element/3871 | Implicit & Explicit wait is not reliable to find the element - Support - Appium Discuss
+https://github.com/appium/appium/issues/4178 | Notification alert in iOS8 causes Appium session start to fail due to reported instruments crash on startup · Issue #4178 · appium/appium
+https://github.com/appium/appium/issues/3154 | IOS appium element searches sometimes cause an instruments crash · Issue #3154 · appium/appium
+https://github.com/awslabs?utf8=%E2%9C%93&query=appium | Amazon Web Services - Labs
+https://forums.aws.amazon.com/thread.jspa?messageID=658080&#658080 | AWS Developer Forums: Complete reports from sdk / cli? ...
+http://docs.aws.amazon.com/devicefarm/latest/APIReference/API_ListArtifacts.html | ListArtifacts - AWS Device Farm
+
+http://www.eriwen.com/tools/wikify-yourself/ | Why every programmer should have a Tiddlywiki
+https://blog.hipchat.com/2015/06/19/work-faster-with-slash-commands/ | Work Faster with Slash Commands — HipChat Blog
+http://tiddlywiki.com/ | TiddlyWiki — a non-linear personal web notebook
+https://www.npmjs.com/package/newman | newman
+https://code.google.com/p/selenium/wiki/PageFactory | PageFactory - selenium - Description of the PageFactory in the WebDriver support library. - Browser automation framework - Google Project Hosting
+http://stackoverflow.com/questions/10520294/locating-child-nodes-of-webelements-in-selenium | xpath - Locating child nodes of WebElements in selenium - Stack Overflow
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium%20scroll%20to%20element | appium scroll to element - Google Search
+https://discuss.appium.io/t/how-the-scrollto-and-scrolltoexact-methods-are-working/1477/15 | How the scrollTo() and scrollToExact() methods are working? - Support - Appium Discuss
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=selenium+custom+control+page+object | selenium custom control page object - Google Search
+https://mestachs.wordpress.com/2012/08/13/selenium-best-practices/ | Selenium Best Practices | Don't Make the Same Mistake Twice
+http://blog.activelylazy.co.uk/2011/07/09/page-objects-in-selenium-2-0/ | Page Objects in Selenium 2.0 | Actively Lazy
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=selenium%20return%20custom%20page%20object | selenium return custom page object - Google Search
+http://stackoverflow.com/questions/13371699/how-to-implement-webdriver-pageobject-methods-that-can-return-different-pageobje | java - How to implement WebDriver PageObject methods that can return different PageObjects - Stack Overflow
+http://stackoverflow.com/questions/3981498/selenium-page-object-reuse | java - Selenium Page Object Reuse - Stack Overflow
+https://github.com/appium/appium/issues/192 | Elements get invalidated in UIATableView · Issue #192 · appium/appium
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=selenium%20using%20other%20elements%20vs%20xpath%20to%20find%20elements | selenium using other elements vs xpath to find elements - Google Search
+http://sqa.stackexchange.com/questions/10342/how-to-find-element-using-contains-in-xpath | selenium - How to find element using contains in xpath - Software Quality Assurance & Testing Stack Exchange
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=relative%20xpath%20in%20selenium | relative xpath in selenium - Google Search
+http://seleniumeasy.com/selenium-tutorials/xpath-tutorial-for-selenium | XPath tutorial for Selenium | Selenium Easy
+http://stackoverflow.com/questions/14837735/relative-xpath-from-list-of-webelements | java - Relative Xpath from list of WebElements - Stack Overflow
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium%20uiatablecell%20off%20by%20one | appium uiatablecell off by one - Google Search
+http://stackoverflow.com/questions/30664167/appium-findelement-used-twice-in-one-row-not-working | java - Appium findElement used twice in one row not working - Stack Overflow
+https://gist.github.com/djangofan/5112655 | Exercise on safely waiting for unstable web elements with WebDriver.
+https://saucelabs.com/resources/articles/appium-bootcamp-chapter-1 | Appium Bootcamp - Chapter 1
+https://github.com/pry/pry | pry/pry
+https://discuss.appium.io/t/problem-in-fetching-child-elements-at-specific-position-of-all-parent-elements-in-ios-application-using-xpath/4929/5 | Problem in fetching child elements at specific position of all parent elements in IOS application using Xpath - Issues/Bugs - Appium Discuss
+http://stackoverflow.com/questions/19930703/selenium-webdriver-expectedconditions-not-is-not-working-as-expected | java - Selenium Webdriver "Expectedconditions.not" is not working as expected - Stack Overflow
+https://discuss.appium.io/t/what-are-small-hacks-to-run-your-appium-tests-faster/3735/3 | What are small hacks to run your appium tests faster? - Support - Appium Discuss
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium%20%22path%22%3A%22%2F0%2F0%2F1%2F0%22 | appium "path":"/0/0/1/0" - Google Search
+https://discuss.appium.io/t/help-with-uiatableview/7053 | Help with UIATableView - Support - Appium Discuss
+https://github.com/appium/appium/issues/5720 | appium.dmg 1.4.13 crashes instruments · Issue #5720 · appium/appium
+https://github.com/appium/appium-xcuitest-driver | appium/appium-xcuitest-driver
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=intellj+breakpoint+on+appium+tests | intellj breakpoint on appium tests - Google Search
+
+https://lab.getbase.com/blog/ | Base Lab Blog
+https://discuss.appium.io/t/cant-install-ipa-file-only-app/1378 | Can't install .ipa file (only .app) - Support - Appium Discuss
+https://code.google.com/p/selenium/wiki/PageObjects | PageObjects - selenium - The Page Object pattern represents the screens of your web app as a series of objects - Browser automation framework - Google Project Hosting
+https://code.google.com/p/selenium/wiki/PageFactory | PageFactory - selenium - Description of the PageFactory in the WebDriver support library. - Browser automation framework - Google Project Hosting
+http://stackoverflow.com/questions/23119724/capturing-android-screenshot-with-appium | java - Capturing Android screenshot with appium - Stack Overflow
+http://stackoverflow.com/questions/473401/get-name-of-currently-executing-test-in-junit-4 | java - Get name of currently executing test in JUnit 4 - Stack Overflow
+https://discuss.appium.io/t/swipe-broken-on-1-3-3-ios-8-1/1688/30 | Swipe broken on 1.3.3? ios 8.1 - Support - Appium Discuss
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=junit+comment+test | junit comment test - Google Search
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium+ios+close+and+relaunch+app&start=10 | appium ios close and relaunch app - Google Search
+https://github.com/appium/appium/issues/673 | Force quit the application on real device. · Issue #673 · appium/appium
+http://stackoverflow.com/questions/22498745/any-way-to-put-app-in-background-and-relaunch-in-appium-ios | iphone - Any way to put app in background and relaunch in Appium iOS - Stack Overflow
+https://discuss.appium.io/t/want-to-restart-ios-application-in-a-single-appium-session-without-deleting-uninstalling-it/6027 | Want to restart IOS application in a single Appium session without deleting/uninstalling it - Support - Appium Discuss
+http://stackoverflow.com/questions/22710538/how-to-switch-from-one-app-to-another-app-at-run-time/24399468#24399468 | appium - How to switch from one app to another app at run time - Stack Overflow
+http://docs.oracle.com/javase/7/docs/api/java/lang/Object.html?is-external=true#wait() | Object (Java Platform SE 7 b99)
+http://stackoverflow.com/questions/24530783/ios-app-gets-reset-on-creation-of-new-appium-session | ios ui automation - iOS app gets reset on creation of new appium session - Stack Overflow
+https://discuss.appium.io/t/closeapp-call-doesnt-always-close-the-app/422 | closeApp() call doesn't always close the app - Issues/Bugs - Appium Discuss
+https://github.com/appium/appium/issues/5705 | Issues with Simulators on Appium 1.4.13 · Issue #5705 · appium/appium
+http://aaronpresley.com/building-ios-app-use-appium-gui/ | Building your iOS app for use in the Appium GUI - Aaron Presley
+https://discuss.appium.io/t/getting-an-error-i-did-not-before-around-instruments-crashing/3714/7 | Getting an error I did not before around Instruments crashing - Support - Appium Discuss
+https://signin.aws.amazon.com/oauth?SignatureVersion=4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCWK33IEX6G36DQ&X-Amz-Date=2015-12-05T07%3A47%3A33.954Z&X-Amz-Signature=d397254384f485783bbe563a336be060da5a18391e1bbe7fae50c549bd1fab69&X-Amz-SignedHeaders=host&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fdevicefarm&redirect_uri=https%3A%2F%2Fus-west-2.console.aws.amazon.com%2Fdevicefarm%2Fhome%3Fregion%3Dus-west-2%26state%3DhashArgs%2523%252Fprojects%252F40565ad2-d12d-4336-9e14-9a2776adedae%252Fruns%252F7e49f5b3-8d6c-4573-9a2e-c829a9a0b44e%252Fjobs%252F00001%252Fscreenshots%26isauthcode%3Dtrue&region=us-west-2&response_type=code&state=hashArgs%23%2Fprojects%2F40565ad2-d12d-4336-9e14-9a2776adedae%2Fruns%2F7e49f5b3-8d6c-4573-9a2e-c829a9a0b44e%2Fjobs%2F00001%2Fscreenshots | Amazon Web Services Sign-In
+http://docs.aws.amazon.com/devicefarm/latest/developerguide/test-types-ios-appium-java-junit.html | Working with Appium Java JUnit for iOS and AWS Device Farm - AWS Device Farm
+https://aws.amazon.com/device-farm/faq/ | FAQ
+https://signin.aws.amazon.com/oauth?response_type=code&client_id=arn%3Aaws%3Aiam%3A%3A540806263933%3Auser%2FAWSForums-Auth&redirect_uri=https%3A%2F%2Fforums.aws.amazon.com%2Fforum.jspa%3FforumID%3D193%26start%3D0%26isauthcode%3Dtrue&forceMobileLayout=0&forceMobileApp=0 | Amazon Web Services Sign-In
+http://mobile.awsblog.com/ | AWS Developer Blog - Mobile
+https://signin.aws.amazon.com/oauth?response_type=code&client_id=arn%3Aaws%3Aiam%3A%3A540806263933%3Auser%2FAWSForums-Auth&redirect_uri=https%3A%2F%2Fforums.aws.amazon.com%2Fthread.jspa%3FthreadID%3D221023%26isauthcode%3Dtrue&forceMobileLayout=0&forceMobileApp=0 | Amazon Web Services Sign-In
+https://github.com/awslabs?utf8=%E2%9C%93&query=device | Amazon Web Services - Labs
+https://github.com/awslabs/aws-device-farm-sample-app-for-ios | awslabs/aws-device-farm-sample-app-for-ios
+https://github.com/awslabs/aws-device-farm-calabash-tests-for-sample-app | awslabs/aws-device-farm-calabash-tests-for-sample-app
+https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app/blob/master/src/test/java/Tests/AbstractBaseTests/TestBase.java | aws-device-farm-appium-tests-for-sample-app/TestBase.java at master · awslabs/aws-device-farm-appium-tests-for-sample-app
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=aws%20device%20farm%20ios%20fullreset | aws device farm ios fullreset - Google Search
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=getting+app+path+from+appium+driver | getting app path from appium driver - Google Search
+https://github.com/appium/java-client/issues/52 | Add @FindBy annotations for appium's extra locator strategies · Issue #52 · appium/java-client
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=sql%20explain%20query | sql explain query - Google Search
+http://stackoverflow.com/questions/19838734/maven-dskiptests-ignored | java - Maven -DskipTests ignored - Stack Overflow
+https://discuss.appium.io/t/how-can-i-scroll-in-android-ios-from-top-to-bottom-using-appium-driver/5686/2 | How can I scroll in android/ios from top to bottom using appium driver? - Support - Appium Discuss
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=adding%20wait%20timeouts%20appium | adding wait timeouts appium - Google Search
+
+https://discuss.appium.io/t/scroll-to-swipe-action-in-ios-8/4220/18 | Scroll To / Swipe Action in iOS 8 - Issues/Bugs - Appium Discuss
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium+ios+uitextview+scroll+to+bottom | appium ios uitextview scroll to bottom - Google Search
+http://stackoverflow.com/questions/16698638/textview-scroll-textview-to-bottom | ios - TextView - Scroll TextView To Bottom - Stack Overflow
+http://masilotti.com/ui-testing-xcode-7/ | UI Testing in Xcode 7 · Masilotti.com
+https://discuss.appium.io/t/how-to-get-the-co-ordinates-to-scroll-up-and-down/2072/5 | How to get the co-ordinates to scroll up and down - Support - Appium Discuss
+http://chris.beams.io/posts/git-commit/ | How to Write a Git Commit Message
+http://stackoverflow.com/questions/32905494/appium-how-to-wait-for-new-element-with-same-name-as-visible-one-to-appear-on-s | ios - Appium: How to wait for new element with same name as visible one to appear on screen? - Stack Overflow
+https://discuss.appium.io/t/what-are-the-different-wait-commands-and-how-to-use-it/2099/2 | What are the different Wait() commands and how to use it - Tutorials/Documentation - Appium Discuss
+https://saucelabs.com/resources/articles/appium-bootcamp-chapter-4 | Appium Bootcamp - Chapter 4
+https://discuss.appium.io/t/check-if-an-element-is-present/584/10 | Check if an element is present - Support - Appium Discuss
+https://us-west-2.console.aws.amazon.com/devicefarm/home?region=us-west-2#/projects/40565ad2-d12d-4336-9e14-9a2776adedae/runs/ddd00db5-4f21-4d4a-bb26-8c5eb75e1425 | AWS Device Farm
+https://dzone.com/articles/six-reasons-why-i-love-go | Six Reasons Why I Love Go - DZone Web Dev
+http://www.golangbootcamp.com/book/get_setup | Chapter 9: Get Setup | Go Bootcamp | Softcover.io
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium+findby+uiabutton%5B%40name | appium findby uiabutton[@name - Google Search
+https://github.com/appium/appium/issues/2495 | Appium 1.0.0 cannot find element by xpath if it contains cyrillic letter 'й' · Issue #2495 · appium/appium
+http://appium.io/slate/en/v1.3.4/?java#string-comparisons | API Reference
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=xpath%20get%20root%20node | xpath get root node - Google Search
+https://github.com/appium/appium/issues/2598 | XPath Android fatally flawed · Issue #2598 · appium/appium
+http://sqa.stackexchange.com/questions/13090/how-to-locate-or-write-xpath-for-an-element-of-an-hybrid-app-which-has-only-clas | webdriver - How to locate or write Xpath for an element of an Hybrid app which has only class and no other attribute - Software Quality Assurance & Testing Stack Exchange
+https://discuss.appium.io/t/how-to-locate-to-parent-node/1217 | How to locate to parent node? - Support - Appium Discuss
+https://github.com/NARKOZ/hacker-scripts | NARKOZ/hacker-scripts
+
+https://soundcloud.com/search/sets?q=korean | Search Playlists on SoundCloud
+https://github.com/appium/sample-code/blob/master/sample-code/examples/java/junit/src/test/java/com/saucelabs/appium/iOSPageObjectTest.java | sample-code/iOSPageObjectTest.java at master · appium/sample-code
+https://pragprog.com/book/jptios/test-ios-apps-with-ui-automation | The Pragmatic Bookshelf | Test iOS Apps with UI Automation
+https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/UIAutomation.html | Instruments User Guide: Automate UI Testing in iOS
+https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html#//apple_ref/doc/uid/TP40014132 | About Testing with Xcode
+https://jojitsoriano.wordpress.com/2011/06/03/references-on-unit-testing-ui-automation-for-ios-applications/ | References on Unit Testing & UI Automation for iOS Applications | Jojit Soriano's Blog
+http://blog.carbonfive.com/2010/03/10/testing-view-controllers/ | Testing iPhone View Controllers
+http://devmonologue.com/ios/debug/ui-automation-in-xcode/ | UIAutomation in Xcode - My iOS development monologue
+https://developer.apple.com/library/tvos/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/UIAutomation.html | Instruments User Guide: Automate UI Testing in iOS
+https://developer.apple.com/library/tvos/documentation/UserExperience/Conceptual/iPhoneAccessibility/Making_Application_Accessible/Making_Application_Accessible.html#//apple_ref/doc/uid/TP40008785-CH102-SW5 | Making Your iOS App Accessible
+https://www.atlassian.com/git/tutorials/undoing-changes/git-clean | Git clean | Atlassian Git Tutorial
+http://islegend.com/development/setting-global-gitignore-mac-windows/ | Setting up a global .gitignore on Mac and Windows - Alex Fernandez
+https://github.com/appium/appium/issues/3184 | Unable to locate iOS element via Xpath name when attribute contains apostrophe? · Issue #3184 · appium/appium
+http://appium.io/slate/en/v1.0.0/?ruby#ios | API Reference
+https://discuss.appium.io/t/unable-to-get-uiatablecell-count-of-uiatableview-in-ios/3857/9 | Unable to get 'UIATableCell' count of 'UIATableView' in iOS - Issues/Bugs - Appium Discuss
+https://discuss.appium.io/t/extra-space-problem-while-using-accessibility-id-strategy-to-locate-element-in-ios/117/10 | Extra space problem while using 'Accessibility id' strategy to locate element in iOS - Support - Appium Discuss
+http://appium.io/slate/en/master/?java#aggregate-operations | API Reference
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium+ios+debugging+tips+and+tricks | appium ios debugging tips and tricks - Google Search
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium%20ios%20driver%20refresh%20objects | appium ios driver refresh objects - Google Search
+https://github.com/appium/appium/issues/4123 | Annotations are not working on iOS · Issue #4123 · appium/appium
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium%20ios%20uiatableview%20get%20visible%20count%20of%20uiatablecell | appium ios uiatableview get visible count of uiatablecell - Google Search
+https://aws.amazon.com/device-farm/?sc_channel=PS&sc_campaign=acquisition_US&sc_publisher=google&sc_medium=device_farm_b&sc_content=device_farm_e&sc_detail=aws%20device%20farm&sc_category=device_farm&sc_segment=73834160442&sc_matchtype=e&sc_country=US&s_kwcid=AL!4422!3!73834160442!e!!g!!aws%20device%20farm&ef_id=VUUNlQAABTR3zH3t:20151123070509:s | AWS Device Farm – Mobile App Testing
+http://docs.aws.amazon.com/devicefarm/latest/developerguide/test-types-ios-xctest.html | Working with XCTest for iOS and AWS Device Farm - AWS Device Farm
+https://github.com/kif-framework/KIF | kif-framework/KIF
+http://www.joecolantonio.com/2015/08/31/the-top-6-ios-automation-tools-for-mobile-testing/ | The Top 6 iOS Automation Tools for Mobile Testing - Joe Colantonio - Succeeding with Test Automation Awesomeness. I’ll show you how!
+
+https://aws.amazon.com/instance-help/ | Amazon EC2 Instance FAQ
+https://wiki.saucelabs.com/display/DOCS/Running+C%23+Tests+in+Parallel+with+PNUnit | Running C# Tests in Parallel with PNUnit - DOCS - Sauce Labs Documentation Wiki
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium%20screenshot%20each%20step | appium screenshot each step - Google Search
+http://docs.aws.amazon.com/devicefarm/latest/developerguide/test-types-ios-appium-java-junit.html#test-types-ios-appium-java-junit-screenshots | Working with Appium Java JUnit for iOS and Device Farm - AWS Device Farm
+http://docs.aws.amazon.com/devicefarm/latest/developerguide/how-to-create-test-run.html | Create a Run in AWS Device Farm - AWS Device Farm
+http://maven.apache.org/surefire/maven-surefire-plugin/examples/skipping-test.html | Maven Surefire Plugin – Skipping Tests
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium+screenshot+on+failure | appium screenshot on failure - Google Search
+
+https://www.openstack.org/summit/tokyo-2015/videos/ | Summit Videos » OpenStack Open Source Cloud Computing Software
+http://appium.io/slate/en/master/?java#running-your-test-app-with-appium-(android) | API Reference
+https://github.com/appium/java-client | appium/java-client
+https://github.com/appium/sample-code/tree/master/sample-code/examples/java/junit | sample-code/sample-code/examples/java/junit at master · appium/sample-code
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium%20tutorial | appium tutorial - Google Search
+http://appium.io/slate/en/tutorial/ios.html?java#introduction | http://appium.io/slate/en/tutorial/ios.html?java#introduction failed to load
+http://code.tutsplus.com/tutorials/an-introduction-to-appium--cms-23861 | An Introduction to Appium - Envato Tuts+ Code Tutorial
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=running%20appium%20tests%20from%20ide | running appium tests from ide - Google Search
+https://applitools.com/appium-tutorial-no-sweat-setting-up-and-running-your-first-script/ | Applitools – Appium Tutorial: No Sweat - Setting Up & Running Your First Script
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=appium+tests+intellij | appium tests intellij - Google Search
+https://nishantverma.gitbooks.io/appium-for-android/content/automating_gestures/index.html | Automating Gestures | Appium for Android
+http://appium.io/slate/en/tutorial/ios.html?java#page-object-pattern | Tutorial
+http://unmesh.me/2013/02/06/ios-automation-with-appium/ | iOS Automation with Appium & Selenium | TestO'Matic
+https://github.com/appium/appium/issues/537 | Appium does not return correct value from UIAStaticText · Issue #537 · appium/appium
+https://dashboard.tutum.co/accounts/login/?next=/ | Tutum
+https://discuss.appium.io/t/how-to-check-if-element-not-exist-in-ios-app-using-appium-and-ruby/2624 | How to check if element NOT exist in iOS app using Appium and Ruby? - Support - Appium Discuss
+https://github.com/appium/sample-code/blob/master/sample-code/examples/java/junit/src/test/java/com/saucelabs/appium/UICatalogTest.java | sample-code/UICatalogTest.java at master · appium/sample-code
+
+https://www.youtube.com/watch?v=d1u58t-ko6s | Appium - Testing iOS Apps with the Simulator - YouTube
+http://appium.io/getting-started.html?lang=en | Appium: Mobile App Automation Made Awesome.
+http://appium.io/slate/en/master/?ruby#general | API Reference
+https://discuss.appium.io/t/unable-to-launch-ios-simulator-on-xcode-7-and-appium-1-4-13/6759 | Unable to launch ios simulator on xcode 7 and appium 1.4.13 - Support - Appium Discuss
+https://blog.pivotal.io/labs/labs/iphone-ui-automation-tests-with-jasmine | iPhone UI Automation tests with Jasmine | Pivotal P.O.V.
+https://github.com/bendyworks/bwoken | bendyworks/bwoken
+http://docs.aws.amazon.com/devicefarm/latest/developerguide/welcome.html | What Is AWS Device Farm? - AWS Device Farm
+
+http://docs.aws.amazon.com/devicefarm/latest/developerguide/test-types-ios-appium-java-junit.html | Working with Appium Java JUnit for iOS and Device Farm - AWS Device Farm
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ios+ui+automation+appium | ios ui automation appium - Google Search
+http://appium.io/slate/en/tutorial/ios.html?java#install-ruby | Tutorial
+http://www.mokacoding.com/blog/xcode-7-ui-testing/ | Xcode 7 UI testing, a first look
+https://saucelabs.com/mobile/ios-app-testing/ios-ui-automation#qs1 | iOS UI Automation by Sauce Labs
+https://github.com/appium/appium/blob/4f3a32afc5cf8c7f29f0d80c9d7cf33451945f98/docs/en/appium-setup/running-on-osx.md | appium/running-on-osx.md at 4f3a32afc5cf8c7f29f0d80c9d7cf33451945f98 · appium/appium
+https://developer.apple.com/library/watchos/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/UIAutomation.html | Instruments User Guide: Automate UI Testing in iOS
+https://developer.apple.com/library/prerelease/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/03-testing_basics.html#//apple_ref/doc/uid/TP40014132-CH3-SW10 | Testing Basics
+
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=what%20you%20need%20for%20automation%20of%20iphone%20app | what you need for automation of iphone app - Google Search
+https://saucelabs.com/features#features-automated-mobile | Sauce Labs: Features
+http://appium.io/getting-started.html?lang=en | Appium: Mobile App Automation Made Awesome.
+http://appium.io/slate/en/master/?ruby#system-setup-(ios) | API Reference
+http://docs.aws.amazon.com/devicefarm/latest/developerguide/setting-up.html#setting-up-permissions | Setting Up AWS Device Farm - AWS Device Farm
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ionic+mobile+automation | ionic mobile automation - Google Search
+http://docs.aws.amazon.com/devicefarm/latest/developerguide/test-types-intro.html | Working with Test Types in AWS Device Farm - AWS Device Farm
+https://us-west-2.console.aws.amazon.com/devicefarm/home?region=us-west-2#/projects/40565ad2-d12d-4336-9e14-9a2776adedae | AWS Device Farm
+http://stackoverflow.com/questions/16050640/xcode-product-archive-disabled | provisioning - Xcode Product -> Archive disabled - Stack Overflow
+http://stackoverflow.com/questions/19197497/ios-7-0-no-code-signing-identities-found | ios7 - iOS 7.0 No code signing identities found - Stack Overflow
+http://stackoverflow.com/questions/19585253/codesign-error-with-xcode5-0-1-mac-os-10-9 | codesign error with xcode5.0.1 + mac os 10.9 - Stack Overflow
+http://docs.aws.amazon.com/devicefarm/latest/developerguide/devicefarm-dg.pdf | docs.aws.amazon.com/devicefarm/latest/developerguide/devicefarm-dg.pdf
+
+https://dev.modern.ie/tools/vms/mac/ | Virtual Machine (VM), Windows Virtual PC & BrowserStack : Microsoft Edge Dev
+http://www.davevoyles.com/a-list-of-chrome-extensions-that-i-use-and-why/ | A list of Chrome extensions that I use, and why
+http://www.davevoyles.com/debugging-web-apps-with-vorlon-js/ | Debugging web apps with Vorlon JS
+http://www.davevoyles.com/i-wrote-a-javascript-study-guide/ | I wrote a JavaScript study guide
+http://elgalu.github.io/2014/run-protractor-against-internet-explorer-vm/ | Run protractor against Internet Explorer VM - Leo Gallucci's blog
+http://circle-theory.blogspot.com/2015/02/promises-promises-testing-non-angular.html | Circle Theory: Promises, promises ... (Testing non-AngularJS websites with Selenium and Protractor)
+https://github.com/elgalu/docker-selenium | elgalu/docker-selenium
+https://dev.modern.ie/tools/vms/mac/ | Virtual Machine (VM), Windows Virtual PC & BrowserStack : Microsoft Edge Dev
+https://az792536.vo.msecnd.net/vms/release_notes_license_terms_8_1_15.pdf | https://az792536.vo.msecnd.net/vms/release_notes_license_terms_8_1_15.pdf
+https://gist.github.com/andreptb/57e388df5e881937e62a | Setup modern.ie vagrant boxes
+http://blog.syntaxc4.net/post/2014/09/03/windows-boxes-for-vagrant-courtesy-of-modern-ie.aspx | Windows Boxes for Vagrant Courtesy of Modern.ie « Cloudy Thoughts by SyntaxC4
+https://www.vagrantup.com/ | Vagrant
+https://jaswsinc.com/vagrant-ubuntu-lamp/ | OS X Yosemite + VirtualBox + Vagrant + Landrush; Step-by-Step Installation Guide | JasWSInc.com
+http://sourabhbajaj.com/mac-setup/Vagrant/README.html | Vagrant | Mac OS X Setup Guide
+https://www.google.com/search?q=running+ui+test+in+headless+browser&oq=running+ui+test+in+headless+browser&aqs=chrome..69i57.7238j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | running ui test in headless browser - Google Search
+http://tobyho.com/2015/01/09/headless-browser-testing-xvfb/ | Headless Browser Testing With Xvfb
+https://saucelabs.com/resources/articles/selenium-jenkins-how-to-do-it-yourself-and-the-sauce-labs-advantage | Selenium Jenkins - How to Do it Yourself and the Sauce Labs Advantage
+http://docs.travis-ci.com/user/gui-and-headless-browsers/ | GUI and Headless Browser Testing - Travis CI
+https://saucelabs.com/selenium/selenium-chrome | Selenium Chrome - run your tests on Chrome easily with these code examples
+http://www.virtualbox.org/manual/ch06.html#networkingmodes | Chapter 6. Virtual networking
+http://dailyjs.com/2015/01/13/testharness-call-modern/ | ngTestHarness, call-n-times, modern.IE Automation
+https://www.npmjs.com/package/iectrl | iectrl
+https://www.google.com/search?q=distributing+protractor+execution&oq=distributing+protractor+execution&aqs=chrome..69i57.12134j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=distributing+protractor+execution+across+machines | distributing protractor execution across machines - Google Search
+https://www.weg.ucar.edu/documentation/hostfile-unix.html | Modifying the /etc/hosts file
+https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities | DesiredCapabilities · SeleniumHQ/selenium Wiki
+http://stackoverflow.com/questions/13625153/not-able-to-register-selenium-webdriver-node-on-vm-to-the-hub-on-host | grid - Not able to register selenium webdriver node on VM to the hub on Host - Stack Overflow
+http://www.integratingstuff.com/2011/03/31/network-adapters-in-virtualbox/ | Network Adapters in VirtualBox | Integrating Stuff
+http://stackoverflow.com/questions/25080500/when-run-webdriver-with-chrome-browser-getting-message-only-local-connection | When run webdriver with chrome browser , getting message " Only local connections are allowed" although broser launches properly - Stack Overflow
+http://stackoverflow.com/questions/16179808/chromedriver-is-extremely-slow-on-a-specific-machine-using-selenium-grid-and-ne | webdriver - Chromedriver is extremely slow on a specific machine using Selenium Grid and .net - Stack Overflow
+https://forums.virtualbox.org/viewtopic.php?t=12443 | virtualbox.org • View topic - network first fast, then *really* slow
+
+http://merrigrove.blogspot.co.uk/2015/10/visualizing-docker-containers-and-images.html?_tmc=Diy2bNEQqG5t8sSbcMW6T5Us4KCmgsInjBviObh0atg&mkt_tok=3RkMMJWWfF9wsRonuqTMZKXonjHpfsX57u8rUKSxlMI%2F0ER3fOvrPUfGjI4AS8VqI%2BSLDwEYGJlv6SgFQ7LMMaZq1rgMXBk%3D | Probably Done Before: Visualizing Docker Containers and Images
+
+http://phili.pe/posts/postgresql-on-the-command-line/ | PostgreSQL on the Command Line · Philipe Fatio
+
+https://blog.nraboy.com/2015/03/check-update-outdated-npm-packages/ | Check And Update Outdated NPM Packages
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=npm-check-updates%20all%20global%20packages%20update%20to%20date | npm-check-updates all global packages update to date - Google Search
+https://angular.github.io/protractor/#/infrastructure | Protractor - end to end testing for AngularJS
+https://en.wikipedia.org/wiki/Quartz_(scheduler) | Quartz (scheduler) - Wikipedia, the free encyclopedia
+http://www.sikuli.org/ | Sikuli Script - Home
+
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=script+to+modify+confluence+wiki+markup+dynamically&start=10 | script to modify confluence wiki markup dynamically - Google Search
+https://developer.atlassian.com/confdev/confluence-rest-api/confluence-rest-api-examples | Confluence REST API Examples - Atlassian Developers
+https://confluence.atlassian.com/doc/confluence-storage-format-283640220.html | Confluence Storage Format - Atlassian Documentation
+http://docs.getzephyr.apiary.io/ | Zephyr for JIRA REST API—by apiary.io
+https://docs.atlassian.com/jira/REST/latest/#api/2/issue-editIssue | JIRA 7.0.0
+https://developer.atlassian.com/jiradev/jira-apis/jira-rest-apis/jira-rest-api-tutorials/jira-rest-api-version-2-tutorial# | JIRA REST API Version 2 Tutorial - Atlassian Developers
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=agile%20test%20plan%20site%3Adzone.com | agile test plan site:dzone.com - Google Search
+https://dzone.com/articles/creating-a-software-test-plan-for-an-agile-environ | Creating a Software Test Plan for an Agile Environment - DZone Agile
+https://dzone.com/articles/writing-a-test-plan-document-from-scratch-follow-t | Writing a Test Plan Document From Scratch? Follow These Tips - DZone Agile
+http://www.getzephyr.com/insights/how-write-great-software-test-plan | How to write a great software test plan | Zephyr
+http://www.getzephyr.com/buzz/press-releases/zephyr-blueprints-confluence-delivers-testing-dashboards-integrated-test-metrics | Zephyr Announces Zephyr Blueprints For Confluence | Zephyr
+http://www.j-tricks.com/jqlt-links-functions.html | JQLT Links Functions - J tricks - Little JIRA Tricks
+https://answers.atlassian.com/questions/209914/how-to-use-jquery-to-run-a-jira-rest-query-without-hard-coding-username-password-in-plain-text | How to use jQuery in Confluence to run a JIRA REST query without hard-coding username/password in plain-text? - Atlassian Answers
+http://www.tutorialspoint.com/jquery/ajax-jquery-ajax.htm | jQuery jQuery.ajax( options ) Method
+https://developer.atlassian.com/jiradev/jira-apis/jira-rest-apis/jira-rest-api-tutorials/jira-rest-api-example-query-issues | JIRA REST API Example - Query issues - Atlassian Developers
+http://jsfiddle.net/ifandelse/6Yj5h/ | JSON.stringify Examples - JSFiddle
+http://stackoverflow.com/questions/8517071/send-json-data-via-post-ajax-and-receive-json-response-from-controller-mvc | jquery - Send JSON data via POST (ajax) and receive json response from Controller (MVC) - Stack Overflow
+https://confluence.atlassian.com/pages/viewpage.action?pageId=313468261 | REST API: "Error 415 Unsupported Media Type" - FishEye & Crucible Knowledge Base - Atlassian Documentation
+http://stackoverflow.com/questions/2845459/jquery-how-to-make-post-use-contenttype-application-json | ajax - Jquery - How to make $.post() use contentType=application/json? - Stack Overflow
+https://github.com/jquery/jquery/blob/1.4.2/src/ajax.js#L143 | jquery/ajax.js at 1.4.2 · jquery/jquery
+https://developer.atlassian.com/confdev/confluence-rest-api/confluence-rest-api-examples | Confluence REST API Examples - Atlassian Developers
+http://api.jquery.com/jquery.post/ | jQuery.post() | jQuery API Documentation
+https://answers.atlassian.com/questions/149561/simple-confluence-rest-api-usage-what-am-i-missing | Simple confluence REST API usage... What Am I missing? - Atlassian Answers
+
+https://medium.com/engineering-at-ifttt/developing-with-docker-at-ifttt-5bd03b4e597c | Developing with Docker at IFTTT — Engineering at IFTTT — Medium
+https://medium.com/search?q=vim | Medium
+https://medium.com/ted-fellows/meet-12-badass-scientists-who-also-happen-to-be-women-ace8d797bcad | Meet 12 Badass Scientists…Who Also Happen to be Women — TED Fellows — Medium
+https://medium.com/@manishrjain/golang-vim-dev-setup-in-docker-5de7302684dc | Golang + vim dev setup in Docker — Medium
+https://www.digitalocean.com/community/tutorials/docker-explained-using-dockerfiles-to-automate-building-of-images | Docker Explained: Using Dockerfiles to Automate Building of Images | DigitalOcean
+https://github.com/harvard-dce/python-docker-test | harvard-dce/python-docker-test
+https://www.google.com/search?q=A+tool+for+testing+your+python+app+inside+a+docker+container&oq=A+tool+for+testing+your+python+app+inside+a+docker+container&aqs=chrome..69i57j69i64l2&sourceid=chrome&es_sm=119&ie=UTF-8 | A tool for testing your python app inside a docker container - Google Search
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=s3%20fuse | s3 fuse - Google Search
+https://www.youtube.com/watch?v=SwSTCzxjFEs | Docker London Meetup, January 2015: Andrew Martin – Building and Testing Docker Containers - YouTube
+https://hub.docker.com/r/library/centos/ | Docker Hub
+http://grahamlavender.com/2014/02/10/code-school-vs-codecademy-where-are-the-best-coding-tutorials/ | Code School vs. Codecademy: Where are the best coding tutorials? | GrahamLavender.com
+
+http://www.microsoftvirtualacademy.com/Live-Training-Events | Microsoft Jump Start Series, Live Events, Register Now - Microsoft Virtual Academy
+http://config610vm0:8080/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FSearchTest.jspa | Log in - Test JIRA 2
+http://jsfiddle.net/mjaric/sewm6/ | Render json in table using jQuery - JSFiddle
+http://docs.getzephyr.apiary.io/#example | Zephyr for JIRA REST API—by apiary.io
+https://my.atlassian.com/products/index | Licenses - My Atlassian
+http://config610vm0:8080/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2Fadmin%2FWebSudoAuthenticate%21default.jspa%3FwebSudoDestination%3D%252Fplugins%252Fservlet%252Fupm&page_caps=&user_role=ADMIN#manage | Log in - Test JIRA 2
+https://developer.atlassian.com/jiradev/jira-platform/dashboards/tutorial-writing-a-jql-standalone-gadget | Tutorial - Writing a JQL standalone gadget - Atlassian Developers
+https://developer.atlassian.com/display/GADGETS/Using+Web+Resources+in+your+Gadget | Using Web Resources in your Gadget - Gadgets - Atlassian Developer Documentation
+https://developer.atlassian.com/jiradev/jira-platform/dashboards/tutorial-writing-a-plugin-gadget-that-shows-days-left-in-a-version | Tutorial - Writing a plugin gadget that shows days left in a version - Atlassian Developers
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=confluence+unsupported+media+type+javascript | confluence unsupported media type javascript - Google Search
+https://developer.atlassian.com/confdev/development-resources/confluence-developer-faq/http-response-code-definitions | HTTP Response Code Definitions - Atlassian Developers
+https://confluence.atlassian.com/display/CONFKB/How+to+use+JavaScript+in+Confluence | How to use JavaScript in Confluence - Confluence Knowledge Base - Atlassian Documentation
+https://answers.atlassian.com/questions/236949/getting-rest-415-error | Getting rest 415 error - Atlassian Answers
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=atlassian%20ajs | atlassian ajs - Google Search
+https://answers.atlassian.com/questions/145476/examples-for-ajs | Examples for AJS - Atlassian Answers
+https://answers.atlassian.com/questions/55459/ajs-framework | AJS Framework - Atlassian Answers
+https://docs.atlassian.com/aui/latest/docs/helper.html | Helper functions - AUI Documentation
+https://docs.atlassian.com/aui/latest/docs/tables.html | Tables - AUI Documentation
+https://opensocial.atlassian.net/wiki/pages/viewpage.action?pageId=526850 | Gadgets.util (v0.9) - OpenSocial Documentation - OpenSocial Wiki
+http://codegeist.devpost.com/ | Atlassian Codegeist: Add-on Hackathon | Devpost
+https://developer.atlassian.com/static/connect/docs/latest/guides/getting-started.html#webapp | Getting started - Atlassian Connect Documentation
+https://developer.atlassian.com/jiradev/jira-platform/issues/tutorial-displaying-content-in-a-dialog-in-jira#Tutorial-DisplayingcontentinadialoginJIRA-Step10.LearnAbouttheJavaScriptandTestAgain | Tutorial - Displaying content in a dialog in JIRA - Atlassian Developers
+https://developer.chrome.com/devtools/docs/tips-and-tricks | Tips And Tricks - Google Chrome
+https://learn.jquery.com/using-jquery-core/iterating/ | Iterating over jQuery and non-jQuery Objects | jQuery Learning Center
+http://stackoverflow.com/questions/1096924/iterating-a-javascript-objects-properties-using-jquery | Iterating a JavaScript object's properties using jQuery - Stack Overflow
+https://developer.atlassian.com/display/CONFDEV/Including+Javascript+and+CSS+resources | Including Javascript and CSS resources - Confluence Development - Atlassian Developer Documentation
+http://jsfiddle.net/v2Ypj/ | Edit fiddle - JSFiddle
+https://developer.atlassian.com/docs/getting-started/tutorials | Tutorials - Atlassian Developers
+https://developer.atlassian.com/display/GADGETS/Using+Web+Resources+in+your+Gadget | Using Web Resources in your Gadget - Gadgets - Atlassian Developer Documentation
+https://github.com/mbostock/d3/wiki/Tutorials | Tutorials · mbostock/d3 Wiki
+http://bost.ocks.org/mike/bar/3/ | Let’s Make a Bar Chart, III
+https://confluence.atlassian.com/jira/fields-allowing-custom-html-or-javascript-224401453.html | Fields Allowing Custom HTML or JavaScript - Atlassian Documentation
+http://d3js.org/ | D3.js - Data-Driven Documents
+http://blog.visual.ly/cartesian-vs-radial-charts/ | Battle of the Charts: Why Cartesian Wins Against Radial | Visually Blog
+https://square.github.io/intro-to-d3/examples/ | Examples
+http://nvd3.org/index.html | NVD3
+
+http://bl.ocks.org/mbostock/1134768 | Stacked Bar Chart
+http://bl.ocks.org/mbostock/3943967 | Stacked-to-Grouped Bars
+https://www.jamasoftware.com/jama-test-management/ | Test Management
+http://config610vm0:8080/secure/Dashboard.jspa?selectPageId=10200 | Testathon - Test JIRA 2
+http://config610vm0:8080/plugins/servlet/upm#manage | Manage add-ons - Test JIRA 2
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=develop%20confluence%20macro | develop confluence macro - Google Search
+http://bl.ocks.org/mbostock/3887051 | Grouped Bar Chart
+https://jsfiddle.net/Ldrtthqy/1/ | Edit fiddle - JSFiddle
+https://marketplace.atlassian.com/plugins/com.thed.zephyr.bp | Zephyr Blueprints for Confluence | Atlassian Marketplace
+https://zephyrdocs.atlassian.net/wiki/display/ZBP/Test+Dashboard | Test Dashboard - Zephyr Blueprints for Confluence 1.2 - Zephyr Technical Documentation
+
+https://medium.com/dima-korolev/whiteboard-and-the-coding-interview-9eddf98bde18 | Whiteboard and the Coding Interview — Live Long and Prosper — Medium
+https://medium.com/@declercq/how-to-crush-the-coding-interview-1fc8a4695d7c | How to crush the coding interview — Medium
+https://hn.algolia.com/?query=interview&sort=byPopularity&prefix&page=2&dateRange=pastMonth&type=story | HN Search powered by Algolia
+https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/ | My favorite interview question - NCZOnline
+https://medium.com/@kokev/your-engineering-interviews-are-broken-680735aed4c | Your Engineering Interviews Are Broken — Medium
+https://www.google.com/search?q=interview+site%3Apinboard.in&oq=interview+site%3Apinboard.in&aqs=chrome..69i57.3422j0j4&sourceid=chrome&es_sm=119&ie=UTF-8#q=interview+questions+site:pinboard.in+%60 | interview questions site:pinboard.in ` - Google Search
+
+https://github.com/Yelp/elastalert | Yelp/elastalert
+http://config610vm0:8090/admin/viewgadgetdirectory.action | External Gadgets - Confluence
+http://config610vm0:8080/secure/Dashboard.jspa | System Dashboard - Test JIRA 2
+http://config610vm0:8080/rest/gadgets/latest/g/com.thed.zephyr.je:zephyr-je-gadget-zql-filter/gadgets/zql-gadget.xml | config610vm0:8080/rest/gadgets/latest/g/com.thed.zephyr.je:zephyr-je-gadget-zql-filter/gadgets/zql-gadget.xml
+https://developers.google.com/gadgets/docs/basic?csw=1#walkthrough | Write Your Own Gadgets  |  Gadgets API  |  Google Developers
+https://developer.atlassian.com/jiradev/jira-platform/dashboards/tutorial-writing-a-jql-standalone-gadget#Tutorial-WritingaJQLstandalonegadget-Step7.ConfigureOAuth | Tutorial - Writing a JQL standalone gadget - Atlassian Developers
+https://bitbucket.org/atlassianlabs/jira-issues-gadget/src/922a8ff98577129b8d37e7f6568b017d2eca2109/jira-issues/jira-issues-gadget-plugin/?at=master | atlassianlabs / JIRA Issues Gadget / source / jira-issues / jira-issues-gadget-plugin — Bitbucket
+https://raw.githubusercontent.com/lrodrigueza/Ztuff/master/example.xml | https://raw.githubusercontent.com/lrodrigueza/Ztuff/master/example.xml
+https://confluence.atlassian.com/conf54/confluence-administrator-s-guide/managing-add-ons-and-macros/enabling-and-configuring-macros/enabling-html-macros | Enabling HTML macros - Atlassian Documentation
+http://config550vm0:8090/pages/editpage.action?pageId=3375111 | TestingTest - Testing - Confluence
+http://config610vm0:8080/plugins/servlet/applinks/listApplicationLinks | Application Links - Test JIRA 2
+https://confluence.atlassian.com/display/KB/Application+Links+Troubleshooting+Guide | Application Links Troubleshooting Guide - Atlassian KnowledgeBase - Atlassian Documentation
+http://comments.gmane.org/gmane.comp.java.jira.devel/19080 | Discussions about customising and extending JIRA ()
+https://developer.atlassian.com/jiradev/jira-platform/dashboards/tutorial-writing-a-jql-standalone-gadget | Tutorial - Writing a JQL standalone gadget - Atlassian Developers
+http://codegeist.devpost.com/?utm_source=dac&utm_medium=notification&utm_campaign=codegeist-2015 | Atlassian Codegeist: Add-on Hackathon | Devpost
+
+https://github.com/elastic/kibana/issues/1011 | integrate alerting system with kibana · Issue #1011 · elastic/kibana
+https://github.com/Yelp/elastalert | Yelp/elastalert
+
+https://medium.com/javascript-and-the-server/test-all-the-units-770fd3f08437 | Test all the units! — Javascript and the server — Medium
+https://medium.com/@saidtayebi/test-your-node-js-app-with-mocha-1193e1dcc223 | Test Your Node.js app with Mocha (part 1) — Medium
+https://medium.com/@_jh3y/getting-started-with-mocha-bfa20d403186 | Getting started with mocha — Medium
+https://medium.com/@kanyang/hooks-in-mocha-87cb43baa91c | Hooks in Mocha — Medium
+http://thejackalofjavascript.com/end-to-end-testing-with-protractor/ | End to End Testing with Protractor | The Jackal of Javascript
+http://blog.jetbrains.com/webstorm/2014/02/running-and-debugging-node-js-application/ | Running and debugging Node.js application | JetBrains WebStorm Blog
+
+https://docs.docker.com/installation/ubuntulinux/#installation | Installation on Ubuntu
+https://medium.com/@brianleroux/es6-modules-amd-and-commonjs-c1acefbe6fc0 | ES6 Modules, AMD and CommonJS — Medium
+https://docs.docker.com/kitematic/minecraft-server/ | Set up a Minecraft Server
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=using%20ubuntu%20from%20docker | using ubuntu from docker - Google Search
+http://phusion.github.io/baseimage-docker/ | Baseimage-docker: A minimal Ubuntu base image modified for Docker-friendliness
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=kitematic%20shutdown%20docker%20images | kitematic shutdown docker images - Google Search
+
+https://packer.io/ | Packer by HashiCorp
+http://blog.docker.com/2015/08/docker-toolbox/ | Announcing Docker Toolbox | Docker Blog
+http://blog.docker.com/2015/08/reactive-containers-kitematic-docker/ | Reactive Containers: How Kitematic works hand-in-hand with the Docker CLI | Docker Blog
+https://docs.atlassian.com/jira/REST/latest/#id166728 | JIRA 6.4.10 REST API documentation
+https://bitbucket.org/zfjdeveloper/zfj-importer/overview | zfjdeveloper / zfj-importer — Bitbucket
+http://www.scala-sbt.org/release/tutorial/Installing-sbt-on-Mac.html | Getting Started with sbt — Installing sbt on Mac
+
+https://docs.google.com/spreadsheets/d/1KHbfYGW4rt60MeNeqEMV4EkBJj922jtRflADReY8Qno/edit#gid=0 | BioSample List - Google Sheets
+
+http://lifehacker.com/habit-creep-the-gradual-and-reasonable-way-to-improve-1720039293 | Habit Creep: The Gradual and Reasonable Way to Improve Yourself
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dynamic+memory+management+carnige+mellon+cert | dynamic memory management carnige mellon cert - Google Search
+https://github.com/UseFedora/protractor-extras | UseFedora/protractor-extras
+https://github.com/apiaryio/swagger2blueprint | apiaryio/swagger2blueprint
+https://www.runscope.com/ | API Performance Monitoring · Runscope
+http://swagger.io/swagger-codegen/ | Swagger Codegen | Swagger
+
+http://blogs.msdn.com/b/somasegar/archive/2015/07/20/visual-studio-2015-and-net-4-6-available-for-download.aspx | Visual Studio 2015 and .NET 4.6 Available for Download - Somasegar's blog - Site Home - MSDN Blogs
+https://github.com/s-a/iron-node | s-a/iron-node
+
+
+https://www.inboxsdk.com/docs/#GettingStarted | Inbox SDK
+http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html | Advanced Testing and Debugging in AngularJS - yearofmoo.com
+https://www.airpair.com/angularjs/posts/component-based-angularjs-directives | Component-Based Directives in AngularJS
+https://www.linkedin.com/pulse/why-you-need-use-vorlonjs-your-next-javascript-projects-agarwal | Why You Need to Use Vorlon.JS for Your Next JavaScript Projects | Rachit Agarwal | LinkedIn
+
+http://zmjones.com/mac-setup/ | Setting up OSX for Data Analysis
+
+http://seqanswers.com/forums/showthread.php?t=47633 | Fetch fastqs from basespace with command line - SEQanswers
+https://gist.github.com/lh3/54f535b11a9ee5d3be8e | Download files from Illumina's BaseSpace
+
+https://github.com/kilimchoi/engineering-blogs | kilimchoi/engineering-blogs
+https://github.com/equinusocio/material-theme | equinusocio/material-theme
+
+http://www.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/ | An Introduction To Full-Stack JavaScript – Smashing Magazine
+https://university.utest.com/selenium-basics-part-1-how-to-set-up-selenium/ | Selenium Basics, Part 1: How to Set Up Selenium - Software Testing Courses
+http://stackoverflow.com/questions/18868743/how-to-install-selenium-webdriver-on-mac-os | How to install Selenium WebDriver on Mac OS - Stack Overflow
+http://www.thoughtworks.com/insights/blog/build-right-regression-suite-using-behavior-driven-testing-bdt | ​Build the ‘Right’ Regression Suite Using Behavior Driven Testing (BDT) | ThoughtWorks
+https://luckymarmot.com/paw/doc/ | Table of contents | Paw Documentation
+https://docs.docker.com/reference/commandline/cli/ | Docker command line - Docker Documentation
+http://stackoverflow.com/questions/20995351/docker-how-to-get-container-information-from-within-the-container | Docker, how to get container information from within the container? - Stack Overflow
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bash+script+to+commit+docker+container | bash script to commit docker container - Google Search
+http://stackoverflow.com/questions/30607569/how-can-i-run-a-docker-container-and-commit-the-changes-once-a-script-completes | bash - How can I run a docker container and commit the changes once a script completes? - Stack Overflow
+https://docs.docker.com/articles/basics/ | Docker basics - Docker Documentation
+https://medium.com/@gchudnov/copying-data-between-docker-containers-26890935da3f | Copying data between Docker containers — Medium
+http://askubuntu.com/questions/505506/docker-how-to-get-bash-ssh-inside-runned-container-run-d | Docker. How to get bash\ssh inside runned container (run -d)? - Ask Ubuntu
+https://forums.docker.com/t/run-command-in-stopped-container/343/11 | Run command in stopped container - Docker Forums
+http://ubuntuforums.org/showthread.php?t=1513757 | [ubuntu] commnad to get file size in MB
+http://thenewstack.io/getting-started-with-mono-on-docker/ | Getting Started With Mono on Docker - The New Stack
+http://docs.docker.com/reference/builder/ | Dockerfile - Docker Documentation
+http://www.mono-project.com/docs/getting-started/install/linux/ | Install Mono on Linux | Mono
+
+https://www.digitalocean.com/community/tutorials/how-to-use-kibana-dashboards-and-visualizations | How To Use Kibana Dashboards and Visualizations | DigitalOcean
+http://fbinfer.com/docs/getting-started.html | Getting started with Infer
+http://www.wired.com/2015/06/facebooks-ai-tool-squashing-bugs-now-open/ | Facebook's AI Tool for Squashing Bugs Is Now Open to All | WIRED
+https://github.com/facebook/PathPicker | facebook/PathPicker
+https://asciinema.org/docs/installation | Installation - asciinema
+
+https://remysharp.com/2013/07/25/my-terminal-setup | My terminal setup
+http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience/ | A Beautifully Productive Terminal Experience
+https://blog.docker.com/2015/04/docker-release-1-6/ | Docker 1.6: Engine & Orchestration Updates, Registry 2.0, & Windows Client Preview | Docker Blog
+https://blog.docker.com/2015/05/web-development-with-docker-docker-machine-docker-compose-tmux-tmuxinator-and-watchdog/ | Web Development with Docker, Docker-Machine, Docker-Compose, Tmux, Tmuxinator, and Watchdog | Docker Blog
+https://blog.docker.com/2015/05/docker-tutorial-8-troubleshooting-with-sysdig/ | Docker Tutorial 8 – Troubleshooting with Sysdig | Docker Blog
+https://blog.docker.com/2015/04/docker-tutorial-7-dockerfile-part-2/ | Docker Tutorial 7 – Dockerfile (Part 2) | Docker Blog
+https://blog.docker.com/2015/04/tips-for-deploying-nginx-official-image-with-docker/ | Tips for Deploying NGINX (Official Image) with Docker | Docker Blog
+https://blog.docker.com/author/jess/ | Jessie Frazelle | Docker Blog
+https://registry.hub.docker.com/u/subfuzion/nerdy/ | subfuzion/nerdy Repository | Docker Hub Registry - Repositories of Docker Images
+https://asciinema.org/a/18870?speed=4#.VTDMhzvXhHA.twitter | Docker 1.6 is awesome! - asciinema
+http://montanaflynn.me/ | Montana Flynn | Hacker, Hiker, Hopeless Romantic
+https://coderwall.com/p/yiot4q/setup-vim-powerline-and-iterm2-on-mac-os-x | coderwall.com : establishing geek cred since 1305712800
+https://mattstauffer.co/blog/setting-up-a-new-os-x-development-machine-part-1-core-files-and-custom-shell | Setting up a new (OS X) development machine: Part 1 - Core Files and Custom Shell - MattStauffer.co
+
+https://www.parleys.com/tutorial/intellij-idea-tips-tricks | IntelliJ IDEA - Tips and Tricks | Tutorial | Parleys
+chrome-extension://fdmmgilgnpjigdojojpjoooidkmcomcm/index.html | Postman
+https://developer.atlassian.com/blog/2015/02/rebuilding-hipchat-with-react/ | Rebuilding HipChat with React.js - Atlassian Developers
+https://github.com/yahoo/mysql_perf_analyzer | yahoo/mysql_perf_analyzer
+https://github.com/basespace/Docs/pull/41/files | Develop by mayanktyagi · Pull Request #41 · basespace/Docs
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=automated+docker+image+testing&qscrl=1 | automated docker image testing - Google Search
+https://developer.rackspace.com/blog/move-fast-and-dont-break-things-testing-with-jenkins-ansible-and-docker/ | Move fast and don’t break things! Testing with Jenkins, Ansible and Docker
+https://docs.docker.com/docker-hub/builds/ | Automated Builds - Docker Documentation
+https://realpython.com/blog/python/docker-in-action-fitter-happier-more-productive/ | Docker in Action - fitter, happier, more productive - Real Python
+https://github.com/nodejs/docker-iojs/issues/46 | Automated tests of docker images · Issue #46 · nodejs/docker-iojs
+http://www.engadget.com/2012/07/10/vim-how-to/ | VIM 101: a quick-and-dirty guide to our favorite free file editor
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=docker%20see%20all%20tags | docker see all tags - Google Search
+
+https://github.com/zurb/foundation | zurb/foundation
+
+https://github.com/schachmat/wego | schachmat/wego
+https://courses.edx.org/courses/course-v1:Microsoft+DEV201x+2015_T2/courseware/d4f857db4db944ffbdf00a192e133b40/b3abb72b80c0473c852d96dc2322bc82/ | Overview of TypeScript | Module 1: Introducing TypeScript | DEV201x Courseware | edX
+http://frisbyjs.com/ | REST API Testing—Frisby.js
+http://www.thoughtworks.com/insights/blog/build-right-regression-suite-using-behavior-driven-testing-bdt | ​Build the ‘Right’ Regression Suite Using Behavior Driven Testing (BDT) | ThoughtWorks
+https://github.com/stekycz/restful-api-testing/blob/master/chapters/03-restful-api-description-and-testing-tools.md | restful-api-testing/03-restful-api-description-and-testing-tools.md at master · stekycz/restful-api-testing
+https://apiblueprint.org/#get-started | API Blueprint - API Documentation with powerful tooling
+https://apiary.io/blueprint | Apiary — Tutorial
+http://bazscott.com/blog/2014/11/25/API-Testing-With-Frisby/ | API Testing with Frisby :: bazscott.com
+https://github.com/jayway/rest-assured | jayway/rest-assured
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#qscrl=1&q=how+to+switch+to+api+blueprint | how to switch to api blueprint - Google Search
+
+https://github.com/jakubroztocil/httpie | jakubroztocil/httpie
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=embedding%20angularjs%20in%20confluence | embedding angularjs in confluence - Google Search
+https://answers.atlassian.com/questions/272374/angularjs-in-confluence | AngularJS in Confluence - Atlassian Answers
+http://stackoverflow.com/questions/22211148/embedding-tableau-views-in-webpage-using-html-javascript | Embedding tableau views in webpage using HTML/JavaScript - Stack Overflow
+
+http://stackoverflow.com/questions/11086883/how-to-load-authenticated-user-on-client-with-cookies-session-from-service-stack | rest - How to load authenticated user on client with cookies/session from Service Stack AuthService? - Stack Overflow
+https://www.sitepen.com/blog/2015/03/24/testing-typescript-with-intern/ | Testing TypeScript with Intern | Blog | SitePen
+https://developer.salesforce.com/page/The_Flow_Factory_Design_Pattern | The Flow Factory Design Pattern - developer.force.com
+http://blog.codefresh.io/docker-machine-basics/ | Docker Machine
+http://stackshare.io/posts/how-homejoy-built-their-global-on-demand-home-cleaning-service | How Homejoy Built A Global On-Demand Home Cleaning Service | StackShare
+http://stackoverflow.com/questions/10238604/how-to-shutdown-my-jenkins-safely | How to shutdown my Jenkins safely? - Stack Overflow
+https://developer.rackspace.com/blog/move-fast-and-dont-break-things-testing-with-jenkins-ansible-and-docker/ | Move fast and don’t break things! Testing with Jenkins, Ansible and Docker
+https://zapier.com/engineering/continuous-integration-jenkins-docker-github/ | How to Set Up TravisCI-like Continuous Integration with Docker and Jenkins - The Zapier Engineering Blog - Zapier
+https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component | ReactJS: Keep Simple. Everything can be a component! // Speaker Deck
+
+https://bitnami.com/stack/phabricator/virtual-machine | Phabricator Virtual Machines
+https://bitnami.com/stack/phabricator/README.txt | https://bitnami.com/stack/phabricator/README.txt
+
+http://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup | Git - First-Time Git Setup
+https://iojs.org/en/index.html | io.js - JavaScript I/O
+https://gist.github.com/phelma/ce4eeeedb8fb9a9e8e63 | Using Homebrew to manage Node.js and io.js installs on OSX
+https://speakerdeck.com/zenorocha/web-components-a-chance-to-create-the-future | Web Components: a chance to create the future // Speaker Deck
+https://speakerdeck.com/shpigford/from-idea-to-5000-dollars-a-month-in-5-months | From Idea to $5000 a Month in 5 Months // Speaker Deck
